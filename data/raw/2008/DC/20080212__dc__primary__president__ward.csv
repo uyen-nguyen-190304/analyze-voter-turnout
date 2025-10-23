@@ -1,0 +1,113 @@
+ward,office,district,party,candidate,votes
+1,President,,DEM,BILL RICHARDSON,14
+1,President,,DEM,JOHN EDWARDS,36
+1,President,,DEM,DENNIS J. KUCINICH,40
+1,President,,DEM,HILLARY CLINTON,3941
+1,President,,DEM,BARACK OBAMA,10174
+1,President,,DEM,UNCOMMITTED,28
+1,President,,DEM,Write-ins,8
+1,President,,DEM,Total,14241
+1,President,,REP,MIKE HUCKABEE,72
+1,President,,REP,MITT ROMNEY,24
+1,President,,REP,JOHN MCCAIN,337
+1,President,,REP,RON PAUL,68
+1,President,,REP,RUDY GIULIANI,12
+1,President,,REP,Total,513
+2,President,,DEM,BILL RICHARDSON,22
+2,President,,DEM,JOHN EDWARDS,56
+2,President,,DEM,DENNIS J. KUCINICH,19
+2,President,,DEM,HILLARY CLINTON,4410
+2,President,,DEM,BARACK OBAMA,7640
+2,President,,DEM,UNCOMMITTED,26
+2,President,,DEM,Write-ins,18
+2,President,,DEM,Total,12191
+2,President,,REP,MIKE HUCKABEE,161
+2,President,,REP,MITT ROMNEY,70
+2,President,,REP,JOHN MCCAIN,896
+2,President,,REP,RON PAUL,91
+2,President,,REP,RUDY GIULIANI,16
+2,President,,REP,Total,1234
+3,President,,DEM,BILL RICHARDSON,44
+3,President,,DEM,JOHN EDWARDS,73
+3,President,,DEM,DENNIS J. KUCINICH,38
+3,President,,DEM,HILLARY CLINTON,6452
+3,President,,DEM,BARACK OBAMA,10917
+3,President,,DEM,UNCOMMITTED,37
+3,President,,DEM,Write-ins,32
+3,President,,DEM,Total,17593
+3,President,,REP,MIKE HUCKABEE,221
+3,President,,REP,MITT ROMNEY,140
+3,President,,REP,JOHN MCCAIN,1490
+3,President,,REP,RON PAUL,137
+3,President,,REP,RUDY GIULIANI,23
+3,President,,REP,Total,2011
+4,President,,DEM,BILL RICHARDSON,12
+4,President,,DEM,JOHN EDWARDS,40
+4,President,,DEM,DENNIS J. KUCINICH,30
+4,President,,DEM,HILLARY CLINTON,3947
+4,President,,DEM,BARACK OBAMA,16469
+4,President,,DEM,UNCOMMITTED,58
+4,President,,DEM,Write-ins,13
+4,President,,DEM,Total,20569
+4,President,,REP,MIKE HUCKABEE,110
+4,President,,REP,MITT ROMNEY,20
+4,President,,REP,JOHN MCCAIN,333
+4,President,,REP,RON PAUL,30
+4,President,,REP,RUDY GIULIANI,8
+4,President,,REP,Total,501
+5,President,,DEM,BILL RICHARDSON,16
+5,President,,DEM,JOHN EDWARDS,33
+5,President,,DEM,DENNIS J. KUCINICH,32
+5,President,,DEM,HILLARY CLINTON,2748
+5,President,,DEM,BARACK OBAMA,14270
+5,President,,DEM,UNCOMMITTED,51
+5,President,,DEM,Write-ins,11
+5,President,,DEM,Total,17161
+5,President,,REP,MIKE HUCKABEE,90
+5,President,,REP,MITT ROMNEY,19
+5,President,,REP,JOHN MCCAIN,144
+5,President,,REP,RON PAUL,32
+5,President,,REP,RUDY GIULIANI,4
+5,President,,REP,Total,289
+6,President,,DEM,BILL RICHARDSON,21
+6,President,,DEM,JOHN EDWARDS,62
+6,President,,DEM,DENNIS J. KUCINICH,19
+6,President,,DEM,HILLARY CLINTON,4221
+6,President,,DEM,BARACK OBAMA,11332
+6,President,,DEM,UNCOMMITTED,57
+6,President,,DEM,Write-ins,11
+6,President,,DEM,Total,15723
+6,President,,REP,MIKE HUCKABEE,270
+6,President,,REP,MITT ROMNEY,106
+6,President,,REP,JOHN MCCAIN,903
+6,President,,REP,RON PAUL,119
+6,President,,REP,RUDY GIULIANI,31
+6,President,,REP,Total,1429
+7,President,,DEM,BILL RICHARDSON,7
+7,President,,DEM,JOHN EDWARDS,32
+7,President,,DEM,DENNIS J. KUCINICH,10
+7,President,,DEM,HILLARY CLINTON,2277
+7,President,,DEM,BARACK OBAMA,13578
+7,President,,DEM,UNCOMMITTED,57
+7,President,,DEM,Write-ins,14
+7,President,,DEM,Total,15975
+7,President,,REP,MIKE HUCKABEE,61
+7,President,,REP,MITT ROMNEY,8
+7,President,,REP,JOHN MCCAIN,58
+7,President,,REP,RON PAUL,13
+7,President,,REP,RUDY GIULIANI,3
+7,President,,REP,Total,143
+8,President,,DEM,BILL RICHARDSON,9
+8,President,,DEM,JOHN EDWARDS,15
+8,President,,DEM,DENNIS J. KUCINICH,5
+8,President,,DEM,HILLARY CLINTON,1473
+8,President,,DEM,BARACK OBAMA,9003
+8,President,,DEM,UNCOMMITTED,25
+8,President,,DEM,Write-ins,7
+8,President,,DEM,Total,10537
+8,President,,REP,MIKE HUCKABEE,35
+8,President,,REP,MITT ROMNEY,11
+8,President,,REP,JOHN MCCAIN,37
+8,President,,REP,RON PAUL,4
+8,President,,REP,RUDY GIULIANI,4
+8,President,,REP,Total,91
