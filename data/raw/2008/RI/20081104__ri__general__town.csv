@@ -1,0 +1,951 @@
+county,town,office,district,party,candidate,votes
+Bristol,Barrington,President,,Democratic,Barack Obama,6075
+Bristol,Barrington,President,,Republican,John McCain,3666
+Bristol,Barrington,President,,Independent,Ralph Nader,78
+Bristol,Barrington,President,,Libertarian,Bob Barr,31
+Bristol,Barrington,President,,Green,Cynthia McKinney,15
+Bristol,Barrington,President,,Constitution,Chuck Baldwin,12
+Bristol,Barrington,President,,Socialism and Liberation,Glora La Riva,1
+Bristol,Barrington,U.S. Senate,,Democratic,John F. Reed,6627
+Bristol,Barrington,U.S. Senate,,Republican,Robert G. Tingle,2816
+Bristol,Barrington,U.S. Representative,1,Democratic,Patrick J. Kennedy,5610
+Bristol,Barrington,U.S. Representative,1,Republican,Jonathan P. Scott,3169
+Bristol,Barrington,U.S. Representative,1,Independent,Kenneth A. Capalbo,620
+Bristol,Barrington,State Senate,32,Republican,David E. Bates,4843
+Bristol,Barrington,State Senate,32,Democratic,Lawrence J. Signore,4400
+Bristol,Barrington,State House,66,Democratic,Joy Hearn,3865
+Bristol,Barrington,State House,66,Republican,Margaret E. Kane,3217
+Bristol,Barrington,State House,67,Democratic,Jan Malik,1596
+Bristol,Barrington,State Question 1,,,Approve,7684
+Bristol,Barrington,State Question 1,,,Reject,1459
+Bristol,Barrington,State Question 2,,,Approve,6767
+Bristol,Barrington,State Question 2,,,Reject,2357
+Bristol,Bristol,President,,Democratic,Barack Obama,6833
+Bristol,Bristol,President,,Republican,John McCain,3834
+Bristol,Bristol,President,,Independent,Ralph Nader,112
+Bristol,Bristol,President,,Libertarian,Bob Barr,25
+Bristol,Bristol,President,,Constitution,Chuck Baldwin,13
+Bristol,Bristol,President,,Green,Cynthia McKinney,11
+Bristol,Bristol,President,,Socialism and Liberation,Glora La Riva,5
+Bristol,Bristol,U.S. Senate,,Democratic,John F. Reed,7272
+Bristol,Bristol,U.S. Senate,,Republican,Robert G. Tingle,2638
+Bristol,Bristol,U.S. Representative,1,Democratic,Patrick J. Kennedy,6694
+Bristol,Bristol,U.S. Representative,1,Republican,Jonathan P. Scott,2597
+Bristol,Bristol,U.S. Representative,1,Independent,Kenneth A. Capalbo,689
+Bristol,Bristol,State Senate,10,Democratic,"Walter S. Felag, Jr.",1594
+Bristol,Bristol,State Senate,11,Democratic,Charles J. Levesque,1789
+Bristol,Bristol,State Senate,11,Republican,Christopher Scott Ottiano,1065
+Bristol,Bristol,State Senate,11,Independent,John Stephen Vitkevich,349
+Bristol,Bristol,State Senate,32,Democratic,Lawrence J. Signore,2247
+Bristol,Bristol,State Senate,32,Republican,David E. Bates,2146
+Bristol,Bristol,State House,68,Democratic,Douglas W. Gablinske,3427
+Bristol,Bristol,State House,68,Independent,Matthew R. Pion,2354
+Bristol,Bristol,State House,69,Democratic,"Raymond E. Gallison, Jr.",2838
+Bristol,Bristol,State House,69,Republican,William L. Grapentine,1007
+Bristol,Bristol,State Question 1,,,Approve,7735
+Bristol,Bristol,State Question 1,,,Reject,1880
+Bristol,Bristol,State Question 2,,,Approve,6779
+Bristol,Bristol,State Question 2,,,Reject,2739
+Providence,Burrillville,President,,Democratic,Barack Obama,3730
+Providence,Burrillville,President,,Republican,John McCain,3160
+Providence,Burrillville,President,,Independent,Ralph Nader,104
+Providence,Burrillville,President,,Libertarian,Bob Barr,31
+Providence,Burrillville,President,,Constitution,Chuck Baldwin,15
+Providence,Burrillville,President,,Green,Cynthia McKinney,13
+Providence,Burrillville,President,,Socialism and Liberation,Glora La Riva,2
+Providence,Burrillville,U.S. Senate,,Democratic,John F. Reed,4744
+Providence,Burrillville,U.S. Senate,,Republican,Robert G. Tingle,1942
+Providence,Burrillville,U.S. Representative,1,Democratic,Patrick J. Kennedy,4276
+Providence,Burrillville,U.S. Representative,1,Republican,Jonathan P. Scott,1906
+Providence,Burrillville,U.S. Representative,1,Independent,Kenneth A. Capalbo,552
+Providence,Burrillville,State Senate,23,Democratic,Paul W. Fogarty,3557
+Providence,Burrillville,State Senate,23,Republican,Scott P. Rabideau,3101
+Providence,Burrillville,State House,47,Democratic,Edwin R. Pacheco,4354
+Providence,Burrillville,State House,48,Democratic,Raymond C. Church,531
+Providence,Burrillville,State House,48,Republican,Brian C. Newberry,499
+Providence,Burrillville,State House,48,Independent,Gary S. Ezovski,204
+Providence,Burrillville,State Question 1,,,Approve,4521
+Providence,Burrillville,State Question 1,,,Reject,1840
+Providence,Burrillville,State Question 2,,,Approve,4133
+Providence,Burrillville,State Question 2,,,Reject,2221
+Providence,Central Falls,President,,Democratic,Barack Obama,3191
+Providence,Central Falls,President,,Republican,John McCain,661
+Providence,Central Falls,President,,Independent,Ralph Nader,28
+Providence,Central Falls,President,,Libertarian,Bob Barr,6
+Providence,Central Falls,President,,Green,Cynthia McKinney,4
+Providence,Central Falls,President,,Constitution,Chuck Baldwin,3
+Providence,Central Falls,President,,Socialism and Liberation,Glora La Riva,1
+Providence,Central Falls,U.S. Senate,,Democratic,John F. Reed,2902
+Providence,Central Falls,U.S. Senate,,Republican,Robert G. Tingle,385
+Providence,Central Falls,U.S. Representative,1,Democratic,Patrick J. Kennedy,2912
+Providence,Central Falls,U.S. Representative,1,Republican,Jonathan P. Scott,312
+Providence,Central Falls,U.S. Representative,1,Independent,Kenneth A. Capalbo,127
+Providence,Central Falls,State Senate,16,Democratic,Elizabeth A. Crowley,2885
+Providence,Central Falls,State Senate,16,Republican,Albert Paul Larivee,419
+Providence,Central Falls,State House,56,Democratic,Agostinho F. Silva,2065
+Providence,Central Falls,State House,57,Democratic,Kenneth A. Vaudreuil,815
+Providence,Central Falls,State House,57,Republican,Mark C. Chapin,130
+Providence,Central Falls,State Question 1,,,Approve,1904
+Providence,Central Falls,State Question 1,,,Reject,506
+Providence,Central Falls,State Question 2,,,Approve,1725
+Providence,Central Falls,State Question 3,,,Reject,605
+Washington,Charlestown,President,,Democratic,Barack Obama,2670
+Washington,Charlestown,President,,Republican,John McCain,1693
+Washington,Charlestown,President,,Independent,Ralph Nader,57
+Washington,Charlestown,President,,Libertarian,Bob Barr,16
+Washington,Charlestown,President,,Green,Cynthia McKinney,12
+Washington,Charlestown,President,,Constitution,Chuck Baldwin,6
+Washington,Charlestown,President,,Socialism and Liberation,Glora La Riva,1
+Washington,Charlestown,U.S. Senate,,Democratic,John F. Reed,2953
+Washington,Charlestown,U.S. Senate,,Republican,Robert G. Tingle,1262
+Washington,Charlestown,U.S. Representative,2,Democratic,James R. Langevin,2793
+Washington,Charlestown,U.S. Representative,2,Republican,Mark S. Zaccaria,1373
+Washington,Charlestown,State Senate,34,Republican,"Francis T. Maher, Jr.",480
+Washington,Charlestown,State Senate,34,Socialist,Jonathan R. Osborne,180
+Washington,Charlestown,State Senate,38,Republican,Dennis L. Algiere,2268
+Washington,Charlestown,State House,36,Democratic,Donna M. Walsh,1271
+Washington,Charlestown,State House,36,Independent,Matthew J. McHugh,861
+Washington,Charlestown,State House,36,Republican,David A. Cote,674
+Washington,Charlestown,State House,39,Democratic,Rod Driver,775
+Washington,Charlestown,State House,39,Republican,David B. Hathaway,593
+Washington,Charlestown,State Question 1,,,Approve,3194
+Washington,Charlestown,State Question 1,,,Reject,936
+Washington,Charlestown,State Question 2,,,Approve,3105
+Washington,Charlestown,State Question 2,,,Reject,1037
+Kent,Coventry,President,,Democratic,Barack Obama,9622
+Kent,Coventry,President,,Republican,John McCain,7367
+Kent,Coventry,President,,Independent,Ralph Nader,214
+Kent,Coventry,President,,Libertarian,Bob Barr,49
+Kent,Coventry,President,,Green,Cynthia McKinney,27
+Kent,Coventry,President,,Constitution,Chuck Baldwin,21
+Kent,Coventry,President,,Socialism and Liberation,Glora La Riva,5
+Kent,Coventry,U.S. Senate,,Democratic,John F. Reed,11410
+Kent,Coventry,U.S. Senate,,Republican,Robert G. Tingle,5104
+Kent,Coventry,U.S. Representative,2,Democratic,James R. Langevin,11161
+Kent,Coventry,U.S. Representative,2,Republican,Mark S. Zaccaria,5361
+Kent,Coventry,State Senate,21,Republican,Leo R. Blais,3422
+Kent,Coventry,State Senate,21,Democratic,Salvatore Lombardi,2668
+Kent,Coventry,State Senate,33,Democratic,Leonidas P. Raptakis,7888
+Kent,Coventry,State House,25,Democratic,Timothy A. Williamson,651
+Kent,Coventry,State House,26,Democratic,William J. Murphy,1053
+Kent,Coventry,State House,27,Democratic,Patricia A. Serpa,491
+Kent,Coventry,State House,27,Republican,Ericka Joy Atwell,373
+Kent,Coventry,State House,27,Independent,David Michael,60
+Kent,Coventry,State House,28,Democratic,Scott J. Guthrie,4044
+Kent,Coventry,State House,28,Republican,Steven J. Hart,3307
+Kent,Coventry,State House,29,Democratic,"Raymond J. Sullivan, Jr.",2511
+Kent,Coventry,State House,29,Republican,Ian K. Lonngren,1768
+Kent,Coventry,State House,40,Republican,Nicholas Gorham,719
+Kent,Coventry,State House,40,Democratic,Scott M. Pollard,585
+Kent,Coventry,State Question 1,,,Approve,11270
+Kent,Coventry,State Question 1,,,Reject,4670
+Kent,Coventry,State Question 2,,,Approve,10066
+Kent,Coventry,State Question 2,,,Reject,5739
+Providence,Cranston,President,,Democratic,Barack Obama,22520
+Providence,Cranston,President,,Republican,John McCain,13981
+Providence,Cranston,President,,Independent,Ralph Nader,374
+Providence,Cranston,President,,Libertarian,Bob Barr,100
+Providence,Cranston,President,,Green,Cynthia McKinney,52
+Providence,Cranston,President,,Constitution,Chuck Baldwin,33
+Providence,Cranston,President,,Socialism and Liberation,Glora La Riva,2
+Providence,Cranston,U.S. Senate,,Democratic,John F. Reed,25186
+Providence,Cranston,U.S. Senate,,Republican,Robert G. Tingle,9665
+Providence,Cranston,U.S. Representative,2,Democratic,James R. Langevin,24597
+Providence,Cranston,U.S. Representative,2,Republican,Mark S. Zaccaria,10174
+Providence,Cranston,State Senate,26,Democratic,Beatrice A. Lanzi,6887
+Providence,Cranston,State Senate,26,Republican,Sean P. Gately,4725
+Providence,Cranston,State Senate,27,Democratic,Hanna M. Gallo,9254
+Providence,Cranston,State Senate,28,Democratic,Joshua Miller,6337
+Providence,Cranston,State Senate,28,Republican,Robert J. Clarkin,3542
+Providence,Cranston,State House,14,Democratic,Charlene Lima,3268
+Providence,Cranston,State House,14,Republican,Ivan G. Marte,1093
+Providence,Cranston,State House,15,Democratic,Nicholas A. Mattiello,3898
+Providence,Cranston,State House,15,Republican,Robert J. Coupe,2328
+Providence,Cranston,State House,15,Independent,Charles Edward Frappier,749
+Providence,Cranston,State House,16,Democratic,Peter G. Palumbo,3170
+Providence,Cranston,State House,16,Independent,Michael P. McManaman,2642
+Providence,Cranston,State House,17,Democratic,Robert B. Jacquard,3856
+Providence,Cranston,State House,17,Republican,Jasper P. Bedrosian,2154
+Providence,Cranston,State House,18,Democratic,Arthur Handy,4076
+Providence,Cranston,State House,18,Republican,Richard S. Nordlund,1819
+Providence,Cranston,State House,19,Democratic,Joseph McNamara,463
+Providence,Cranston,State House,19,Republican,Robert A. Paquin III,263
+Providence,Cranston,State House,41,Democratic,Michael J. Marcello,1210
+Providence,Cranston,State House,41,Republican,Christopher S. Caluori,1034
+Providence,Cranston,State House,42,Democratic,Stephen R. Ucci,1270
+Providence,Cranston,State Question 1,,,Approve,23909
+Providence,Cranston,State Question 1,,,Reject,9316
+Providence,Cranston,State Question 2,,,Approve,19829
+Providence,Cranston,State Question 2,,,Reject,13128
+Providence,Cumberland,President,,Democratic,Barack Obama,9707
+Providence,Cumberland,President,,Republican,John McCain,6941
+Providence,Cumberland,President,,Independent,Ralph Nader,184
+Providence,Cumberland,President,,Libertarian,Bob Barr,42
+Providence,Cumberland,President,,Constitution,Chuck Baldwin,29
+Providence,Cumberland,President,,Green,Cynthia McKinney,22
+Providence,Cumberland,President,,Socialism and Liberation,Glora La Riva,6
+Providence,Cumberland,U.S. Senate,,Democratic,John F. Reed,11047
+Providence,Cumberland,U.S. Senate,,Republican,Robert G. Tingle,4853
+Providence,Cumberland,U.S. Representative,1,Democratic,Patrick J. Kennedy,10126
+Providence,Cumberland,U.S. Representative,1,Republican,Jonathan P. Scott,4748
+Providence,Cumberland,U.S. Representative,1,Independent,Kenneth A. Capalbo,1156
+Providence,Cumberland,State Senate,16,Democratic,Elizabeth A. Crowley,782
+Providence,Cumberland,State Senate,16,Republican,Albert Paul Larivee,185
+Providence,Cumberland,State Senate,19,Democratic,Daniel P. Connors,5000
+Providence,Cumberland,State Senate,19,Republican,Kathleen E. McCurdy Dennen,4421
+Providence,Cumberland,State Senate,20,Democratic,Roger A. Picard,3947
+Providence,Cumberland,State House,45,Democratic,Rene R. Menard,2599
+Providence,Cumberland,State House,52,Democratic,Karen L. MacBeth,5214
+Providence,Cumberland,State House,52,Republican,Michael Tusoni,2950
+Providence,Cumberland,State House,57,Democratic,Kenneth A. Vaudreuil,2720
+Providence,Cumberland,State House,57,Republican,Mark C. Chapin,1190
+Providence,Cumberland,State Question 1,,,Approve,11528
+Providence,Cumberland,State Question 1,,,Reject,3504
+Providence,Cumberland,State Question 2,,,Approve,10031
+Providence,Cumberland,State Question 2,,,Reject,4903
+Kent,East Greenwich,President,,Democratic,Barack Obama,3916
+Kent,East Greenwich,President,,Republican,John McCain,2570
+Kent,East Greenwich,President,,Independent,Ralph Nader,72
+Kent,East Greenwich,President,,Libertarian,Bob Barr,31
+Kent,East Greenwich,President,,Constitution,Chuck Baldwin,7
+Kent,East Greenwich,President,,Green,Cynthia McKinney,7
+Kent,East Greenwich,President,,Socialism and Liberation,Glora La Riva,1
+Kent,East Greenwich,U.S. Senate,,Democratic,John F. Reed,4435
+Kent,East Greenwich,U.S. Senate,,Republican,Robert G. Tingle,2818
+Kent,East Greenwich,U.S. Representative,2,Democratic,James R. Langevin,4225
+Kent,East Greenwich,U.S. Representative,2,Republican,Mark S. Zaccaria,3012
+Kent,East Greenwich,State Senate,33,Democratic,Leonidas P. Raptakis,948
+Kent,East Greenwich,State Senate,35,Democratic,J. Michael Lenihan,2878
+Kent,East Greenwich,State Senate,35,Republican,"John A. Pagliarini, Jr.",2704
+Kent,East Greenwich,State House,30,Republican,Robert A. Watson,3828
+Kent,East Greenwich,State House,30,Democratic,Jean Ann W. Guliano,3171
+Kent,East Greenwich,State Question 1,,,Approve,5315
+Kent,East Greenwich,State Question 1,,,Reject,1763
+Kent,East Greenwich,State Question 2,,,Approve,4537
+Kent,East Greenwich,State Question 3,,,Reject,2493
+Providence,East Providence,President,,Democratic,Barack Obama,15380
+Providence,East Providence,President,,Republican,John McCain,6216
+Providence,East Providence,President,,Independent,Ralph Nader,249
+Providence,East Providence,President,,Libertarian,Bob Barr,59
+Providence,East Providence,President,,Constitution,Chuck Baldwin,34
+Providence,East Providence,President,,Green,Cynthia McKinney,31
+Providence,East Providence,President,,Socialism and Liberation,Glora La Riva,6
+Providence,East Providence,U.S. Senate,,Democratic,John F. Reed,15916
+Providence,East Providence,U.S. Senate,,Republican,Robert G. Tingle,4528
+Providence,East Providence,U.S. Representative,1,Democratic,Patrick J. Kennedy,15205
+Providence,East Providence,U.S. Representative,1,Republican,Jonathan P. Scott,4075
+Providence,East Providence,U.S. Representative,1,Independent,Kenneth A. Capalbo,1456
+Providence,East Providence,State Senate,14,Democratic,Daniel DaPonte,6577
+Providence,East Providence,State Senate,18,Democratic,"Frank A. Devall, Jr.",6411
+Providence,East Providence,State Senate,18,Independent,Lynn M. Vargas,3975
+Providence,East Providence,State Senate,18,Republican,Marcel L. Robert,1470
+Providence,East Providence,State House,2,Democratic,David A. Segal,946
+Providence,East Providence,State House,62,Democratic,Elizabeth M. Dennigan,989
+Providence,East Providence,State House,62,Republican,Paul A. Dinsmore,256
+Providence,East Providence,State House,63,Democratic,Roberto DaSilva,3585
+Providence,East Providence,State House,63,Republican,Edmund R. Leather,1434
+Providence,East Providence,State House,63,Independent,Maryann A. Gobern Mathews,841
+Providence,East Providence,State House,64,Democratic,Helio Melo,4102
+Providence,East Providence,State House,65,Republican,John A. Savage,4628
+Providence,East Providence,State House,66,Democratic,Joy Hearn,295
+Providence,East Providence,State House,66,Republican,Margaret E. Kane,174
+Providence,East Providence,State Question 1,,,Approve,14518
+Providence,East Providence,State Question 1,,,Reject,4018
+Providence,East Providence,State Question 2,,,Approve,12414
+Providence,East Providence,State Question 2,,,Reject,5850
+Washington,Exeter,President,,Democratic,Barack Obama,1763
+Washington,Exeter,President,,Republican,John McCain,1447
+Washington,Exeter,President,,Independent,Ralph Nader,40
+Washington,Exeter,President,,Libertarian,Bob Barr,21
+Washington,Exeter,President,,Constitution,Chuck Baldwin,3
+Washington,Exeter,President,,Socialism and Liberation,Glora La Riva,1
+Washington,Exeter,President,,Green,Cynthia McKinney,1
+Washington,Exeter,U.S. Senate,,Democratic,John F. Reed,1960
+Washington,Exeter,U.S. Senate,,Republican,Robert G. Tingle,1120
+Washington,Exeter,U.S. Representative,2,Democratic,James R. Langevin,1846
+Washington,Exeter,U.S. Representative,2,Republican,Mark S. Zaccaria,1224
+Washington,Exeter,State Senate,34,Republican,"Francis T. Maher, Jr.",2017
+Washington,Exeter,State Senate,34,Socialist,Jonathan R. Osborne,463
+Washington,Exeter,State House,31,Democratic,Kenneth Carter,623
+Washington,Exeter,State House,31,Republican,Ann Marie Marshall,457
+Washington,Exeter,State House,39,Republican,David B. Hathaway,1059
+Washington,Exeter,State House,39,Democratic,Rod Driver,877
+Washington,Exeter,State Question 1,,,Approve,2210
+Washington,Exeter,State Question 1,,,Reject,846
+Washington,Exeter,State Question 2,,,Approve,2086
+Washington,Exeter,State Question 2,,,Reject,955
+Providence,Foster,President,,Democratic,Barack Obama,1337
+Providence,Foster,President,,Republican,John McCain,1155
+Providence,Foster,President,,Independent,Ralph Nader,43
+Providence,Foster,President,,Libertarian,Bob Barr,15
+Providence,Foster,President,,Green,Cynthia McKinney,8
+Providence,Foster,President,,Constitution,Chuck Baldwin,6
+Providence,Foster,President,,Socialism and Liberation,Glora La Riva,1
+Providence,Foster,U.S. Senate,,Democratic,John F. Reed,1562
+Providence,Foster,U.S. Senate,,Republican,Robert G. Tingle,862
+Providence,Foster,U.S. Representative,1,Democratic,James R. Langevin,1562
+Providence,Foster,U.S. Representative,1,Republican,Mark S. Zaccaria,865
+Providence,Foster,State Senate,21,Republican,Leo R. Blais,1195
+Providence,Foster,State Senate,21,Democratic,Salvatore Lombardi,1169
+Providence,Foster,State House,40,Democratic,Scott M. Pollard,1266
+Providence,Foster,State House,40,Republican,Nicholas Gorham,1193
+Providence,Foster,State Question 1,,,Approve,1622
+Providence,Foster,State Question 1,,,Reject,791
+Providence,Foster,State Question 2,,,Approve,1576
+Providence,Foster,State Question 2,,,Reject,836
+Providence,Glocester,President,,Democratic,Barack Obama,2639
+Providence,Glocester,President,,Republican,John McCain,2498
+Providence,Glocester,President,,Independent,Ralph Nader,70
+Providence,Glocester,President,,Libertarian,Bob Barr,25
+Providence,Glocester,President,,Constitution,Chuck Baldwin,12
+Providence,Glocester,President,,Green,Cynthia McKinney,7
+Providence,Glocester,President,,Socialism and Liberation,Glora La Riva,3
+Providence,Glocester,U.S. Senate,,Democratic,John F. Reed,3290
+Providence,Glocester,U.S. Senate,,Republican,Robert G. Tingle,1713
+Providence,Glocester,U.S. Representative,2,Democratic,James R. Langevin,3207
+Providence,Glocester,U.S. Representative,2,Republican,Mark S. Zaccaria,1786
+Providence,Glocester,State Senate,23,Democratic,Paul W. Fogarty,3245
+Providence,Glocester,State Senate,23,Republican,Scott P. Rabideau,1813
+Providence,Glocester,State House,40,Democratic,Scott M. Pollard,1872
+Providence,Glocester,State House,40,Republican,Nicholas Gorham,1695
+Providence,Glocester,State House,47,Democratic,Edwin R. Pacheco,208
+Providence,Glocester,State House,53,Democratic,Thomas J. Winfield,695
+Providence,Glocester,State House,53,Republican,John S. English,381
+Providence,Glocester,State Question 1,,,Approve,3315
+Providence,Glocester,State Question 1,,,Reject,1545
+Providence,Glocester,State Question 2,,,Approve,2717
+Providence,Glocester,State Question 2,,,Reject,2112
+Washington,Hopkinton,President,,Democratic,Barack Obama,2247
+Washington,Hopkinton,President,,Republican,John McCain,1691
+Washington,Hopkinton,President,,Independent,Ralph Nader,66
+Washington,Hopkinton,President,,Libertarian,Bob Barr,19
+Washington,Hopkinton,President,,Constitution,Chuck Baldwin,7
+Washington,Hopkinton,President,,Green,Cynthia McKinney,7
+Washington,Hopkinton,President,,Socialism and Liberation,Glora La Riva,4
+Washington,Hopkinton,U.S. Senate,,Democratic,John F. Reed,2519
+Washington,Hopkinton,U.S. Senate,,Republican,Robert G. Tingle,1238
+Washington,Hopkinton,U.S. Representative,2,Democratic,James R. Langevin,2477
+Washington,Hopkinton,U.S. Representative,2,Republican,Mark S. Zaccaria,1247
+Washington,Hopkinton,State Senate,34,Republican,"Francis T. Maher, Jr.",2257
+Washington,Hopkinton,State Senate,34,Socialist,Jonathan R. Osborne,657
+Washington,Hopkinton,State House,38,Democratic,Brian Patrick Kennedy,2387
+Washington,Hopkinton,State House,38,Republican,Nancy N. Richmond,1388
+Washington,Hopkinton,State Question 1,,,Approve,2537
+Washington,Hopkinton,State Question 1,,,Reject,1101
+Washington,Hopkinton,State Question 2,,,Approve,2446
+Washington,Hopkinton,State Question 2,,,Reject,1183
+Newport,Jamestown,President,,Democratic,Barack Obama,2316
+Newport,Jamestown,President,,Republican,John McCain,1300
+Newport,Jamestown,President,,Independent,Ralph Nader,39
+Newport,Jamestown,President,,Libertarian,Bob Barr,14
+Newport,Jamestown,President,,Green,Cynthia McKinney,9
+Newport,Jamestown,President,,Constitution,Chuck Baldwin,6
+Newport,Jamestown,President,,Socialism and Liberation,Glora La Riva,1
+Newport,Jamestown,U.S. Senate,,Democratic,John F. Reed,2616
+Newport,Jamestown,U.S. Senate,,Republican,Robert G. Tingle,913
+Newport,Jamestown,U.S. Representative,1,Democratic,Patrick J. Kennedy,2165
+Newport,Jamestown,U.S. Representative,1,Republican,Jonathan P. Scott,1046
+Newport,Jamestown,U.S. Representative,1,Independent,Kenneth A. Capalbo,302
+Newport,Jamestown,State Senate,13,Democratic,M. Teresa Paiva-Weed,2072
+Newport,Jamestown,State Senate,13,Republican,Donna J. Perry,1453
+Newport,Jamestown,State House,74,Democratic,Deborah L. Ruggiero,1889
+Newport,Jamestown,State House,74,Republican,Bruce J. Long,1632
+Newport,Jamestown,State Question 1,,,Approve,2748
+Newport,Jamestown,State Question 1,,,Reject,689
+Newport,Jamestown,State Question 2,,,Approve,2604
+Newport,Jamestown,State Question 2,,,Reject,850
+Providence,Johnston,President,,Democratic,Barack Obama,7763
+Providence,Johnston,President,,Republican,John McCain,6066
+Providence,Johnston,President,,Independent,Ralph Nader,188
+Providence,Johnston,President,,Libertarian,Bob Barr,41
+Providence,Johnston,President,,Green,Cynthia McKinney,27
+Providence,Johnston,President,,Constitution,Chuck Baldwin,18
+Providence,Johnston,President,,Socialism and Liberation,Glora La Riva,5
+Providence,Johnston,U.S. Senate,,Democratic,John F. Reed,9413
+Providence,Johnston,U.S. Senate,,Republican,Robert G. Tingle,3809
+Providence,Johnston,U.S. Representative,,Democratic,James R. Langevin,9432
+Providence,Johnston,U.S. Representative,,Republican,Mark S. Zaccaria,3805
+Providence,Johnston,State Senate,25,Democratic,Christopher B. Maselli,9791
+Providence,Johnston,State House,13,Democratic,John M. Carnevale,911
+Providence,Johnston,State House,42,Democratic,Stephen R. Ucci,3551
+Providence,Johnston,State House,43,Democratic,Deborah A. Fellela,4469
+Providence,Johnston,State House,43,Independent,Karl P. Tirrell,1587
+Providence,Johnston,State House,44,Democratic,Peter J. Petrarca,727
+Providence,Johnston,State House,44,Republican,Jennifer L. Hirons,416
+Providence,Johnston,State Question 1,,,Approve,8783
+Providence,Johnston,State Question 1,,,Reject,3516
+Providence,Johnston,State Question 2,,,Approve,7091
+Providence,Johnston,State Question 2,,,Reject,5017
+Providence,Lincoln,President,,Democratic,Barack Obama,6264
+Providence,Lincoln,President,,Republican,John McCain,4831
+Providence,Lincoln,President,,Independent,Ralph Nader,121
+Providence,Lincoln,President,,Libertarian,Bob Barr,34
+Providence,Lincoln,President,,Constitution,Chuck Baldwin,15
+Providence,Lincoln,President,,Green,Cynthia McKinney,13
+Providence,Lincoln,President,,Socialism and Liberation,Glora La Riva,2
+Providence,Lincoln,U.S. Senate,,Democratic,John F. Reed,7376
+Providence,Lincoln,U.S. Senate,,Republican,Robert G. Tingle,3344
+Providence,Lincoln,U.S. Representative,1,Democratic,Patrick J. Kennedy,6723
+Providence,Lincoln,U.S. Representative,1,Republican,Jonathan P. Scott,3264
+Providence,Lincoln,U.S. Representative,1,Independent,Kenneth A. Capalbo,818
+Providence,Lincoln,State Senate,17,Independent,Edward J. O'Neill,3749
+Providence,Lincoln,State Senate,17,Democratic,Joseph A. Montalbano,1938
+Providence,Lincoln,State Senate,19,Democratic,Daniel P. Connors,2524
+Providence,Lincoln,State Senate,19,Republican,Kathleen E. McCurdy Dennen,2196
+Providence,Lincoln,State House,44,Democratic,Peter J. Petrarca,979
+Providence,Lincoln,State House,44,Republican,Jennifer L. Hirons,818
+Providence,Lincoln,State House,45,Democratic,Rene R. Menard,2547
+Providence,Lincoln,State House,46,Republican,William J. McManus,2943
+Providence,Lincoln,State House,46,Democratic,Mary Ann Shallcross Smith,2693
+Providence,Lincoln,State Question 1,,,Approve,7766
+Providence,Lincoln,State Question 1,,,Reject,2537
+Providence,Lincoln,State Question 2,,,Approve,6772
+Providence,Lincoln,State Question 2,,,Reject,3488
+Newport,Little Compton,President,,Democratic,Barack Obama,1327
+Newport,Little Compton,President,,Republican,John McCain,911
+Newport,Little Compton,President,,Independent,Ralph Nader,22
+Newport,Little Compton,President,,Libertarian,Bob Barr,12
+Newport,Little Compton,President,,Constitution,Chuck Baldwin,4
+Newport,Little Compton,President,,Green,Cynthia McKinney,3
+Newport,Little Compton,President,,Socialism and Liberation,Glora La Riva,0
+Newport,Little Compton,U.S. Senate,,Democratic,John F. Reed,1369
+Newport,Little Compton,U.S. Senate,,Republican,Robert G. Tingle,819
+Newport,Little Compton,U.S. Representative,1,Democratic,Patrick J. Kennedy,1092
+Newport,Little Compton,U.S. Representative,1,Republican,Jonathan P. Scott,874
+Newport,Little Compton,U.S. Representative,1,Independent,Kenneth A. Capalbo,209
+Newport,Little Compton,State Senate,12,Republican,June N. Gibbs,1276
+Newport,Little Compton,State Senate,12,Democratic,Louis P. DiPalma,840
+Newport,Little Compton,State House,71,Republican,John J. Loughlin II,1685
+Newport,Little Compton,State Question 1,,,Approve,1828
+Newport,Little Compton,State Question 1,,,Reject,331
+Newport,Little Compton,State Question 2,,,Approve,1552
+Newport,Little Compton,State Question 2,,,Reject,617
+Newport,Middletown,President,,Democratic,Barack Obama,4631
+Newport,Middletown,President,,Republican,John McCain,2964
+Newport,Middletown,President,,Independent,Ralph Nader,58
+Newport,Middletown,President,,Libertarian,Bob Barr,21
+Newport,Middletown,President,,Green,Cynthia McKinney,15
+Newport,Middletown,President,,Constitution,Chuck Baldwin,12
+Newport,Middletown,President,,Socialism and Liberation,Glora La Riva,2
+Newport,Middletown,U.S. Senate,,Democratic,John F. Reed,5208
+Newport,Middletown,U.S. Senate,,Republican,Robert G. Tingle,1938
+Newport,Middletown,U.S. Representative,1,Democratic,Patrick J. Kennedy,4703
+Newport,Middletown,U.S. Representative,1,Republican,Jonathan P. Scott,2035
+Newport,Middletown,U.S. Representative,1,Independent,Kenneth A. Capalbo,445
+Newport,Middletown,State Senate,12,Democratic,Louis P. DiPalma,3914
+Newport,Middletown,State Senate,12,Republican,June N. Gibbs,3128
+Newport,Middletown,State House,72,Democratic,Amy G. Rice,1826
+Newport,Middletown,State House,72,Republican,Daniel Patrick Reilly,1706
+Newport,Middletown,State House,73,Democratic,J. Russell Jackson,236
+Newport,Middletown,State House,74,Democratic,Deborah L. Ruggiero,1727
+Newport,Middletown,State House,74,Republican,Bruce J. Long,1448
+Newport,Middletown,State Question 1,,,Approve,5388
+Newport,Middletown,State Question 1,,,Reject,1489
+Newport,Middletown,State Question 2,,,Approve,4742
+Newport,Middletown,State Question 2,,,Reject,2154
+Washington,Narragansett,President,,Democratic,Barack Obama,4983
+Washington,Narragansett,President,,Republican,John McCain,3170
+Washington,Narragansett,President,,Independent,Ralph Nader,78
+Washington,Narragansett,President,,Libertarian,Bob Barr,21
+Washington,Narragansett,President,,Green,Cynthia McKinney,20
+Washington,Narragansett,President,,Constitution,Chuck Baldwin,7
+Washington,Narragansett,President,,Socialism and Liberation,Glora La Riva,1
+Washington,Narragansett,U.S. Senate,,Democratic,John F. Reed,5413
+Washington,Narragansett,U.S. Senate,,Republican,Robert G. Tingle,2355
+Washington,Narragansett,U.S. Representative,2,Democratic,James R. Langevin,5157
+Washington,Narragansett,U.S. Representative,2,Republican,Mark S. Zaccaria,2560
+Washington,Narragansett,State Senate,36,Democratic,James C. Sheehan,4849
+Washington,Narragansett,State Senate,36,Republican,William J. Connelly,2745
+Washington,Narragansett,State House,33,Democratic,"Donald J. Lally, Jr.",1816
+Washington,Narragansett,State House,33,Independent,Christopher H. Little,1030
+Washington,Narragansett,State House,33,Republican,Tony Cirillo,824
+Washington,Narragansett,State House,33,Independent,Christopher G. Buffum,57
+Washington,Narragansett,State House,34,Democratic,David A. Caprio,3005
+Washington,Narragansett,State Question 1,,,Approve,5976
+Washington,Narragansett,State Question 1,,,Reject,1486
+Washington,Narragansett,State Question 2,,,Approve,5231
+Washington,Narragansett,State Question 2,,,Reject,2186
+Washington,New Shoreham,President,,Democratic,Barack Obama,758
+Washington,New Shoreham,President,,Republican,John McCain,285
+Washington,New Shoreham,President,,Independent,Ralph Nader,12
+Washington,New Shoreham,President,,Libertarian,Bob Barr,2
+Washington,New Shoreham,President,,Constitution,Chuck Baldwin,2
+Washington,New Shoreham,President,,Socialism and Liberation,Glora La Riva,1
+Washington,New Shoreham,President,,Green,Cynthia McKinney,0
+Washington,New Shoreham,U.S. Senate,,Democratic,John F. Reed,813
+Washington,New Shoreham,U.S. Senate,,Republican,Robert G. Tingle,200
+Washington,New Shoreham,U.S. Representative,2,Democratic,James R. Langevin,739
+Washington,New Shoreham,U.S. Representative,2,Republican,Mark S. Zaccaria,259
+Washington,New Shoreham,State Senate,37,Democratic,V. Susan Sosnowski,826
+Washington,New Shoreham,State Senate,37,Independent,Malcolm J. MacKenzie,169
+Washington,New Shoreham,State House,36,Democratic,Donna M. Walsh,526
+Washington,New Shoreham,State House,36,Independent,Matthew J. McHugh,270
+Washington,New Shoreham,State House,36,Republican,David A. Cote,197
+Washington,New Shoreham,State Question 1,,,Approve,783
+Washington,New Shoreham,State Question 1,,,Reject,209
+Washington,New Shoreham,State Question 2,,,Approve,838
+Washington,New Shoreham,State Question 2,,,Reject,166
+Newport,Newport,President,,Democratic,Barack Obama,6989
+Newport,Newport,President,,Republican,John McCain,3215
+Newport,Newport,President,,Independent,Ralph Nader,85
+Newport,Newport,President,,Libertarian,Bob Barr,26
+Newport,Newport,President,,Green,Cynthia McKinney,24
+Newport,Newport,President,,Constitution,Chuck Baldwin,16
+Newport,Newport,President,,Socialism and Liberation,Glora La Riva,2
+Newport,Newport,U.S. Senate,,Democratic,John F. Reed,7182
+Newport,Newport,U.S. Senate,,Republican,Robert G. Tingle,2267
+Newport,Newport,U.S. Representative,1,Democratic,Patrick J. Kennedy,6581
+Newport,Newport,U.S. Representative,1,Republican,Jonathan P. Scott,2375
+Newport,Newport,U.S. Representative,1,Independent,Kenneth A. Capalbo,522
+Newport,Newport,State Senate,12,Democratic,Louis P. DiPalma,797
+Newport,Newport,State Senate,12,Republican,June N. Gibbs,647
+Newport,Newport,State Senate,13,Democratic,M. Teresa Paiva-Weed,5297
+Newport,Newport,State Senate,13,Republican,Donna J. Perry,2650
+Newport,Newport,State House,72,Democratic,Amy G. Rice,208
+Newport,Newport,State House,72,Republican,Daniel Patrick Reilly,140
+Newport,Newport,State House,73,Democratic,J. Russell Jackson,3113
+Newport,Newport,State House,75,Democratic,Peter F. Martin,2823
+Newport,Newport,State House,75,Republican,Steven J. Coaty,2336
+Newport,Newport,State Question 1,,,Approve,7544
+Newport,Newport,State Question 1,,,Reject,1476
+Newport,Newport,State Question 2,,,Approve,7113
+Newport,Newport,State Question 2,,,Reject,1896
+Washington,North Kingstown,President,,Democratic,Barack Obama,8562
+Washington,North Kingstown,President,,Republican,John McCain,6285
+Washington,North Kingstown,President,,Independent,Ralph Nader,136
+Washington,North Kingstown,President,,Libertarian,Bob Barr,63
+Washington,North Kingstown,President,,Constitution,Chuck Baldwin,26
+Washington,North Kingstown,President,,Green,Cynthia McKinney,21
+Washington,North Kingstown,President,,Socialism and Liberation,Glora La Riva,2
+Washington,North Kingstown,U.S. Senate,,Democratic,John F. Reed,9754
+Washington,North Kingstown,U.S. Senate,,Republican,Robert G. Tingle,4661
+Washington,North Kingstown,U.S. Representative,2,Democratic,James R. Langevin,8592
+Washington,North Kingstown,U.S. Representative,2,Republican,Mark S. Zaccaria,5786
+Washington,North Kingstown,State Senate,35,Democratic,J. Michael Lenihan,4097
+Washington,North Kingstown,State Senate,35,Republican,"John A. Pagliarini, Jr.",3673
+Washington,North Kingstown,State Senate,36,Democratic,James C. Sheehan,3783
+Washington,North Kingstown,State Senate,36,Republican,William J. Connelly,2363
+Washington,North Kingstown,State House,31,Democratic,Kenneth Carter,3254
+Washington,North Kingstown,State House,31,Republican,Ann Marie Marshall,2157
+Washington,North Kingstown,State House,32,Republican,Laurence W. Ehrhardt,3820
+Washington,North Kingstown,State House,32,Democratic,Mark A. Plympton,3241
+Washington,North Kingstown,State House,33,Republican,Tony Cirillo,610
+Washington,North Kingstown,State House,33,Independent,Christopher H. Little,351
+Washington,North Kingstown,State House,33,Democratic,"Donald J. Lally, Jr.",326
+Washington,North Kingstown,State House,33,Independent,Christopher G. Buffum,15
+Washington,North Kingstown,State Question 1,,,Approve,10861
+Washington,North Kingstown,State Question 1,,,Reject,3095
+Washington,North Kingstown,State Question 2,,,Approve,9752
+Washington,North Kingstown,State Question 2,,,Reject,4170
+Providence,North Providence,President,,Democratic,Barack Obama,9954
+Providence,North Providence,President,,Republican,John McCain,5933
+Providence,North Providence,President,,Independent,Ralph Nader,184
+Providence,North Providence,President,,Libertarian,Bob Barr,30
+Providence,North Providence,President,,Constitution,Chuck Baldwin,18
+Providence,North Providence,President,,Green,Cynthia McKinney,16
+Providence,North Providence,President,,Socialism and Liberation,Glora La Riva,1
+Providence,North Providence,U.S. Senate,,Democratic,John F. Reed,10898
+Providence,North Providence,U.S. Senate,,Republican,Robert G. Tingle,4067
+Providence,North Providence,U.S. Representative,1,Democratic,Patrick J. Kennedy,10215
+Providence,North Providence,U.S. Representative,1,Republican,Jonathan P. Scott,3514
+Providence,North Providence,U.S. Representative,1,Independent,Kenneth A. Capalbo,1417
+Providence,North Providence,State Senate,4,Democratic,Dominick J. Ruggerio,3432
+Providence,North Providence,State Senate,4,Republican,Christine Corene Spaziano,1809
+Providence,North Providence,State Senate,7,Democratic,Frank A. Ciccone III,3665
+Providence,North Providence,State Senate,7,Independent,Gregary P. Wright,1399
+Providence,North Providence,State Senate,17,Democratic,Joseph A. Montalbano,2525
+Providence,North Providence,State Senate,17,Independent,Edward J. O'Neill,1971
+Providence,North Providence,State House,6,Democratic,Peter N. Wasylyk,1590
+Providence,North Providence,State House,54,Democratic,Gregory J. Schadone,4132
+Providence,North Providence,State House,54,Republican,Michael J. Rollins,1590
+Providence,North Providence,State House,55,Democratic,Arthur J. Corvese,5263
+Providence,North Providence,State House,58,Democratic,"William San Bento, Jr.",171
+Providence,North Providence,State Question 1,,,Approve,10973
+Providence,North Providence,State Question 1,,,Reject,3152
+Providence,North Providence,State Question 2,,,Approve,9145
+Providence,North Providence,State Question 2,,,Reject,4688
+Providence,North Smithfield,President,,Democratic,Barack Obama,3290
+Providence,North Smithfield,President,,Republican,John McCain,2839
+Providence,North Smithfield,President,,Independent,Ralph Nader,68
+Providence,North Smithfield,President,,Libertarian,Bob Barr,24
+Providence,North Smithfield,President,,Constitution,Chuck Baldwin,17
+Providence,North Smithfield,President,,Green,Cynthia McKinney,11
+Providence,North Smithfield,President,,Socialism and Liberation,Glora La Riva,1
+Providence,North Smithfield,U.S. Senate,,Democratic,John F. Reed,4034
+Providence,North Smithfield,U.S. Senate,,Republican,Robert G. Tingle,1874
+Providence,North Smithfield,U.S. Representative,1,Democratic,Patrick J. Kennedy,3723
+Providence,North Smithfield,U.S. Representative,1,Republican,Jonathan P. Scott,1783
+Providence,North Smithfield,U.S. Representative,1,Independent,Kenneth A. Capalbo,432
+Providence,North Smithfield,State Senate,22,Democratic,"John J. Tassoni, Jr.",1981
+Providence,North Smithfield,State Senate,22,Republican,David B. Bibeault,1518
+Providence,North Smithfield,State Senate,23,Democratic,Paul W. Fogarty,933
+Providence,North Smithfield,State Senate,23,Republican,Scott P. Rabideau,538
+Providence,North Smithfield,State Senate,24,Democratic,Marc A. Cote,565
+Providence,North Smithfield,State House,48,Republican,Brian C. Newberry,2276
+Providence,North Smithfield,State House,48,Democratic,Raymond C. Church,2051
+Providence,North Smithfield,State House,48,Independent,Gary S. Ezovski,1559
+Providence,North Smithfield,State Question 1,,,Approve,4695
+Providence,North Smithfield,State Question 1,,,Reject,1741
+Providence,North Smithfield,State Question 2,,,Approve,2940
+Providence,North Smithfield,State Question 2,,,Reject,2470
+Providence,Pawtucket,President,,Democratic,Barack Obama,18486
+Providence,Pawtucket,President,,Republican,John McCain,6098
+Providence,Pawtucket,President,,Independent,Ralph Nader,269
+Providence,Pawtucket,President,,Libertarian,Bob Barr,61
+Providence,Pawtucket,President,,Green,Cynthia McKinney,47
+Providence,Pawtucket,President,,Constitution,Chuck Baldwin,39
+Providence,Pawtucket,President,,Socialism and Liberation,Glora La Riva,9
+Providence,Pawtucket,U.S. Senate,,Democratic,John F. Reed,18496
+Providence,Pawtucket,U.S. Senate,,Republican,Robert G. Tingle,4219
+Providence,Pawtucket,U.S. Representative,1,Democratic,Patrick J. Kennedy,17707
+Providence,Pawtucket,U.S. Representative,1,Republican,Jonathan P. Scott,3654
+Providence,Pawtucket,U.S. Representative,1,Independent,Kenneth A. Capalbo,1616
+Providence,Pawtucket,State Senate,8,Democratic,James E. Doyle II,7182
+Providence,Pawtucket,State Senate,14,Democratic,Daniel DaPonte,1818
+Providence,Pawtucket,State Senate,15,Democratic,John F. McBurney III,6260
+Providence,Pawtucket,State Senate,16,Democratic,Elizabeth A. Crowley,908
+Providence,Pawtucket,State Senate,16,Republican,Albert Paul Larivee,96
+Providence,Pawtucket,State Senate,17,Democratic,Joseph A. Montalbano,1517
+Providence,Pawtucket,State Senate,17,Independent,Edward J. O'Neill,1053
+Providence,Pawtucket,State House,46,Democratic,Mary Ann Shallcross Smith,688
+Providence,Pawtucket,State House,46,Republican,William J. McManus,158
+Providence,Pawtucket,State House,58,Democratic,"William San Bento, Jr.",2706
+Providence,Pawtucket,State House,59,Democratic,J. Patrick O'Neill,3410
+Providence,Pawtucket,State House,60,Democratic,Elaine A. Coderre,3041
+Providence,Pawtucket,State House,61,Democratic,Peter F. Kilmartin,4737
+Providence,Pawtucket,State House,62,Democratic,Elizabeth M. Dennigan,3361
+Providence,Pawtucket,State House,62,Republican,Paul A. Dinsmore,756
+Providence,Pawtucket,State House,63,Democratic,Roberto DaSilva,337
+Providence,Pawtucket,State House,63,Independent,Maryann A. Gobern Mathews,98
+Providence,Pawtucket,State House,63,Republican,Edmund R. Leather,93
+Providence,Pawtucket,State Question 1,,,Approve,15462
+Providence,Pawtucket,State Question 1,,,Reject,4835
+Providence,Pawtucket,State Question 2,,,Approve,12668
+Providence,Pawtucket,State Question 2,,,Reject,7166
+Newport,Portsmouth,President,,Democratic,Barack Obama,5464
+Newport,Portsmouth,President,,Republican,John McCain,4276
+Newport,Portsmouth,President,,Independent,Ralph Nader,80
+Newport,Portsmouth,President,,Libertarian,Bob Barr,27
+Newport,Portsmouth,President,,Green,Cynthia McKinney,19
+Newport,Portsmouth,President,,Constitution,Chuck Baldwin,12
+Newport,Portsmouth,President,,Socialism and Liberation,Glora La Riva,2
+Newport,Portsmouth,U.S. Senate,,Democratic,John F. Reed,6306
+Newport,Portsmouth,U.S. Senate,,Republican,Robert G. Tingle,2975
+Newport,Portsmouth,U.S. Representative,,Democratic,Patrick J. Kennedy,5593
+Newport,Portsmouth,U.S. Representative,,Republican,Jonathan P. Scott,3101
+Newport,Portsmouth,U.S. Representative,,Independent,Kenneth A. Capalbo,629
+Newport,Portsmouth,State Senate,11,Republican,Christopher Scott Ottiano,4328
+Newport,Portsmouth,State Senate,11,Democratic,Charles J. Levesque,3717
+Newport,Portsmouth,State Senate,11,Independent,John Stephen Vitkevich,1200
+Newport,Portsmouth,State House,69,Democratic,"Raymond E. Gallison, Jr.",926
+Newport,Portsmouth,State House,69,Republican,William L. Grapentine,678
+Newport,Portsmouth,State House,70,Democratic,John G. Edwards,1097
+Newport,Portsmouth,State House,71,Republican,John J. Loughlin II,1879
+Newport,Portsmouth,State House,72,Democratic,Amy G. Rice,1766
+Newport,Portsmouth,State House,72,Republican,Daniel Patrick Reilly,1704
+Newport,Portsmouth,State Question 1,,,Approve,7274
+Newport,Portsmouth,State Question 1,,,Reject,1624
+Newport,Portsmouth,State Question 2,,,Approve,6476
+Newport,Portsmouth,State Question 2,,,Reject,2433
+Providence,Providence,President,,Democratic,Barack Obama,46276
+Providence,Providence,President,,Republican,John McCain,8548
+Providence,Providence,President,,Independent,Ralph Nader,362
+Providence,Providence,President,,Green,Cynthia McKinney,134
+Providence,Providence,President,,Libertarian,Bob Barr,118
+Providence,Providence,President,,Constitution,Chuck Baldwin,30
+Providence,Providence,President,,Socialism and Liberation,Glora La Riva,22
+Providence,Providence,U.S. Senate,,Democratic,John F. Reed,42018
+Providence,Providence,U.S. Senate,,Republican,Robert G. Tingle,5991
+Providence,Providence,U.S. Representative,1,Democratic,Patrick J. Kennedy,19057
+Providence,Providence,U.S. Representative,1,Republican,Jonathan P. Scott,3736
+Providence,Providence,U.S. Representative,1,Independent,Kenneth A. Capalbo,1505
+Providence,Providence,U.S. Representative,2,Democratic,James R. Langevin,21107
+Providence,Providence,U.S. Representative,2,Republican,Mark S. Zaccaria,2420
+Providence,Providence,State Senate,1,Democratic,MaryEllen Goodwin,5631
+Providence,Providence,State Senate,1,Republican,Anthony F. Demings,1003
+Providence,Providence,State Senate,2,Democratic,Juan M. Pichardo,5669
+Providence,Providence,State Senate,2,Republican,Brian P. Mayben,614
+Providence,Providence,State Senate,3,Democratic,Rhoda E. Perry,9105
+Providence,Providence,State Senate,4,Democratic,Dominick J. Ruggerio,4327
+Providence,Providence,State Senate,4,Republican,Christine Corene Spaziano,1509
+Providence,Providence,State Senate,5,Democratic,Paul V. Jabour,5155
+Providence,Providence,State Senate,6,Democratic,Harold M. Metts,6509
+Providence,Providence,State Senate,6,Republican,Marc R. Coda,677
+Providence,Providence,State Senate,7,Democratic,Frank A. Ciccone III,3736
+Providence,Providence,State Senate,7,Independent,Gregary P. Wright,783
+Providence,Providence,State House,1,Democratic,"John J. McCauley, Jr.",2292
+Providence,Providence,State House,1,Independent,Daniel J. Gryzch,596
+Providence,Providence,State House,2,Democratic,David A. Segal,2722
+Providence,Providence,State House,3,Democratic,Edith H. Ajello,3439
+Providence,Providence,State House,4,Democratic,Gordon D. Fox,4899
+Providence,Providence,State House,4,Republican,David V. Anderson,1271
+Providence,Providence,State House,5,Democratic,John J. DeSimone,3752
+Providence,Providence,State House,6,Democratic,Peter N. Wasylyk,2418
+Providence,Providence,State House,7,Democratic,Joanne M. Giannini,3301
+Providence,Providence,State House,7,Independent,Patrick M. Ward,1185
+Providence,Providence,State House,8,Democratic,Steven M. Constantino,2585
+Providence,Providence,State House,9,Democratic,Anastasia P. Williams,2657
+Providence,Providence,State House,9,Republican,Noel O. Sanchez,342
+Providence,Providence,State House,10,Democratic,Thomas C. Slater,2810
+Providence,Providence,State House,10,Republican,David B. Talan,420
+Providence,Providence,State House,11,Democratic,Grace Diaz,3429
+Providence,Providence,State House,11,Republican,Renay Omisore,374
+Providence,Providence,State House,12,Democratic,Joseph S. Almeida,3153
+Providence,Providence,State House,13,Democratic,John M. Carnevale,2372
+Providence,Providence,State Question 1,,,Approve,33717
+Providence,Providence,State Question 1,,,Reject,6247
+Providence,Providence,State Question 2,,,Approve,31131
+Providence,Providence,State Question 2,,,Reject,8216
+Washington,Richmond,President,,Democratic,Barack Obama,2273
+Washington,Richmond,President,,Republican,John McCain,1654
+Washington,Richmond,President,,Independent,Ralph Nader,48
+Washington,Richmond,President,,Libertarian,Bob Barr,17
+Washington,Richmond,President,,Green,Cynthia McKinney,10
+Washington,Richmond,President,,Constitution,Chuck Baldwin,7
+Washington,Richmond,President,,Socialism and Liberation,Glora La Riva,1
+Washington,Richmond,U.S. Senate,,Democratic,John F. Reed,2572
+Washington,Richmond,U.S. Senate,,Republican,Robert G. Tingle,1240
+Washington,Richmond,U.S. Representative,2,Democratic,James R. Langevin,2416
+Washington,Richmond,U.S. Representative,2,Republican,Mark S. Zaccaria,1367
+Washington,Richmond,State Senate,34,Republican,"Francis T. Maher, Jr.",2216
+Washington,Richmond,State Senate,34,Socialist,Jonathan R. Osborne,792
+Washington,Richmond,State House,39,Democratic,Rod Driver,2043
+Washington,Richmond,State House,39,Republican,David B. Hathaway,1733
+Washington,Richmond,State Question 1,,,Approve,2743
+Washington,Richmond,State Question 1,,,Reject,982
+Washington,Richmond,State Question 2,,,Approve,2665
+Washington,Richmond,State Question 2,,,Reject,1062
+Providence,Scituate,President,,Democratic,Barack Obama,2763
+Providence,Scituate,President,,Republican,John McCain,3025
+Providence,Scituate,President,,Independent,Ralph Nader,83
+Providence,Scituate,President,,Constitution,Chuck Baldwin,25
+Providence,Scituate,President,,Libertarian,Bob Barr,23
+Providence,Scituate,President,,Green,Cynthia McKinney,10
+Providence,Scituate,President,,Socialism and Liberation,Glora La Riva,0
+Providence,Scituate,U.S. Senate,,Democratic,John F. Reed,3394
+Providence,Scituate,U.S. Senate,,Republican,Robert G. Tingle,2287
+Providence,Scituate,U.S. Representative,2,Democratic,James R. Langevin,3386
+Providence,Scituate,U.S. Representative,2,Republican,Mark S. Zaccaria,2294
+Providence,Scituate,State Senate,21,Republican,Leo R. Blais,3040
+Providence,Scituate,State Senate,21,Democratic,Salvatore Lombardi,2517
+Providence,Scituate,State House,41,Democratic,Michael J. Marcello,3075
+Providence,Scituate,State House,41,Republican,Christopher S. Caluori,2580
+Providence,Scituate,State Question 1,,,Approve,4039
+Providence,Scituate,State Question 1,,,Reject,1490
+Providence,Scituate,State Question 2,,,Approve,3655
+Providence,Scituate,State Question 2,,,Reject,1851
+Providence,Smithfield,President,,Democratic,Barack Obama,5464
+Providence,Smithfield,President,,Republican,John McCain,4660
+Providence,Smithfield,President,,Independent,Ralph Nader,134
+Providence,Smithfield,President,,Libertarian,Bob Barr,32
+Providence,Smithfield,President,,Green,Cynthia McKinney,19
+Providence,Smithfield,President,,Constitution,Chuck Baldwin,18
+Providence,Smithfield,President,,Socialism and Liberation,Glora La Riva,3
+Providence,Smithfield,U.S. Senate,,Democratic,John F. Reed,6559
+Providence,Smithfield,U.S. Senate,,Republican,Robert G. Tingle,3344
+Providence,Smithfield,U.S. Representative,1,Democratic,Patrick J. Kennedy,5695
+Providence,Smithfield,U.S. Representative,1,Republican,Jonathan P. Scott,3418
+Providence,Smithfield,U.S. Representative,1,Independent,Kenneth A. Capalbo,825
+Providence,Smithfield,State Senate,22,Democratic,"John J. Tassoni, Jr.",6194
+Providence,Smithfield,State Senate,22,Republican,David B. Bibeault,3577
+Providence,Smithfield,State House,44,Democratic,Peter J. Petrarca,2847
+Providence,Smithfield,State House,44,Republican,Jennifer L. Hirons,1799
+Providence,Smithfield,State House,53,Democratic,Thomas J. Winfield,3244
+Providence,Smithfield,State House,53,Republican,John S. English,1729
+Providence,Smithfield,State Question 1,,,Approve,7233
+Providence,Smithfield,State Question 1,,,Reject,2366
+Providence,Smithfield,State Question 2,,,Approve,6242
+Providence,Smithfield,State Question 2,,,Reject,3296
+Washington,South Kingstown,President,,Democratic,Barack Obama,9336
+Washington,South Kingstown,President,,Republican,John McCain,4689
+Washington,South Kingstown,President,,Independent,Ralph Nader,129
+Washington,South Kingstown,President,,Libertarian,Bob Barr,69
+Washington,South Kingstown,President,,Green,Cynthia McKinney,32
+Washington,South Kingstown,President,,Constitution,Chuck Baldwin,14
+Washington,South Kingstown,President,,Socialism and Liberation,Glora La Riva,2
+Washington,South Kingstown,U.S. Senate,,Democratic,John F. Reed,9771
+Washington,South Kingstown,U.S. Senate,,Republican,Robert G. Tingle,3674
+Washington,South Kingstown,U.S. Representative,2,Democratic,James R. Langevin,9107
+Washington,South Kingstown,U.S. Representative,2,Republican,Mark S. Zaccaria,4142
+Washington,South Kingstown,State Senate,37,Democratic,V. Susan Sosnowski,9050
+Washington,South Kingstown,State Senate,37,Independent,Malcolm J. MacKenzie,3764
+Washington,South Kingstown,State House,33,Independent,Christopher H. Little,1099
+Washington,South Kingstown,State House,33,Democratic,"Donald J. Lally, Jr.",927
+Washington,South Kingstown,State House,33,Republican,Tony Cirillo,704
+Washington,South Kingstown,State House,33,Independent,Christopher G. Buffum,73
+Washington,South Kingstown,State House,34,Democratic,David A. Caprio,1789
+Washington,South Kingstown,State House,35,Democratic,Michael A. Rice,2862
+Washington,South Kingstown,State House,35,Republican,James K. Haldeman,2117
+Washington,South Kingstown,State House,36,Democratic,Donna M. Walsh,1322
+Washington,South Kingstown,State House,36,Republican,David A. Cote,1107
+Washington,South Kingstown,State House,36,Independent,Matthew J. McHugh,783
+Washington,South Kingstown,State Question 1,,,Approve,10282
+Washington,South Kingstown,State Question 1,,,Reject,2622
+Washington,South Kingstown,State Question 2,,,Approve,9643
+Washington,South Kingstown,State Question 2,,,Reject,3273
+Newport,Tiverton,President,,Democratic,Barack Obama,4752
+Newport,Tiverton,President,,Republican,John McCain,3051
+Newport,Tiverton,President,,Independent,Ralph Nader,82
+Newport,Tiverton,President,,Libertarian,Bob Barr,27
+Newport,Tiverton,President,,Constitution,Chuck Baldwin,16
+Newport,Tiverton,President,,Green,Cynthia McKinney,8
+Newport,Tiverton,President,,Socialism and Liberation,Glora La Riva,2
+Newport,Tiverton,U.S. Senate,,Democratic,John F. Reed,5300
+Newport,Tiverton,U.S. Senate,,Republican,Robert G. Tingle,2209
+Newport,Tiverton,U.S. Representative,1,Democratic,Patrick J. Kennedy,4739
+Newport,Tiverton,U.S. Representative,1,Republican,Jonathan P. Scott,2196
+Newport,Tiverton,U.S. Representative,1,Independent,Kenneth A. Capalbo,601
+Newport,Tiverton,State Senate,10,Democratic,"Walter S. Felag, Jr.",3847
+Newport,Tiverton,State Senate,12,Democratic,Louis P. DiPalma,1007
+Newport,Tiverton,State Senate,12,Republican,June N. Gibbs,894
+Newport,Tiverton,State House,70,Democratic,John G. Edwards,3493
+Newport,Tiverton,State House,71,Republican,John J. Loughlin II,1606
+Newport,Tiverton,State Question 1,,,Approve,5706
+Newport,Tiverton,State Question 1,,,Reject,1429
+Newport,Tiverton,State Question 2,,,Approve,4937
+Newport,Tiverton,State Question 2,,,Reject,2186
+Bristol,Warren,President,,Democratic,Barack Obama,3254
+Bristol,Warren,President,,Republican,John McCain,1760
+Bristol,Warren,President,,Independent,Ralph Nader,44
+Bristol,Warren,President,,Constitution,Chuck Baldwin,14
+Bristol,Warren,President,,Libertarian,Bob Barr,12
+Bristol,Warren,President,,Green,Cynthia McKinney,9
+Bristol,Warren,President,,Socialism and Liberation,Glora La Riva,3
+Bristol,Warren,U.S. Senate,,Democratic,John F. Reed,3608
+Bristol,Warren,U.S. Senate,,Republican,Robert G. Tingle,1203
+Bristol,Warren,U.S. Representative,1,Democratic,Patrick J. Kennedy,3259
+Bristol,Warren,U.S. Representative,1,Republican,Jonathan P. Scott,1198
+Bristol,Warren,U.S. Representative,1,Independent,Kenneth A. Capalbo,378
+Bristol,Warren,State Senate,10,Democratic,"Walter S. Felag, Jr.",3866
+Bristol,Warren,State House,67,Democratic,Jan Malik,3062
+Bristol,Warren,State House,68,Democratic,Douglas W. Gablinske,400
+Bristol,Warren,State House,68,Independent,Matthew R. Pion,399
+Bristol,Warren,State Question 1,,,Approve,3696
+Bristol,Warren,State Question 1,,,Reject,904
+Bristol,Warren,State Question 2,,,Approve,3199
+Bristol,Warren,State Question 2,,,Reject,1350
+Kent,Warwick,President,,Democratic,Barack Obama,25802
+Kent,Warwick,President,,Republican,John McCain,16541
+Kent,Warwick,President,,Independent,Ralph Nader,477
+Kent,Warwick,President,,Libertarian,Bob Barr,116
+Kent,Warwick,President,,Constitution,Chuck Baldwin,83
+Kent,Warwick,President,,Green,Cynthia McKinney,81
+Kent,Warwick,President,,Socialism and Liberation,Glora La Riva,13
+Kent,Warwick,U.S. Senate,,Democratic,John F. Reed,29363
+Kent,Warwick,U.S. Senate,,Republican,Robert G. Tingle,11676
+Kent,Warwick,U.S. Representative,2,Democratic,James R. Langevin,29334
+Kent,Warwick,U.S. Representative,2,Republican,Mark S. Zaccaria,11864
+Kent,Warwick,State Senate,28,Democratic,Joshua Miller,1029
+Kent,Warwick,State Senate,28,Republican,Robert J. Clarkin,450
+Kent,Warwick,State Senate,29,Democratic,Michael J. McCaffrey,9740
+Kent,Warwick,State Senate,30,Democratic,William A. Walaska,9256
+Kent,Warwick,State Senate,31,Democratic,Erin P. Lynch,7775
+Kent,Warwick,State Senate,31,Republican,Thomas M. Madden,5172
+Kent,Warwick,State Senate,33,Democratic,Leonidas P. Raptakis,297
+Kent,Warwick,State Senate,35,Democratic,J. Michael Lenihan,368
+Kent,Warwick,State Senate,35,Republican,"John A. Pagliarini, Jr.",308
+Kent,Warwick,State House,19,Democratic,Joseph McNamara,4135
+Kent,Warwick,State House,19,Republican,Robert A. Paquin III,1828
+Kent,Warwick,State House,20,Democratic,Alfred A. Gemma,5151
+Kent,Warwick,State House,21,Democratic,Eileen Slattery Naughton,3779
+Kent,Warwick,State House,21,Republican,Timothy M. Lee,2309
+Kent,Warwick,State House,22,Democratic,Frank G. Ferri,3734
+Kent,Warwick,State House,22,Republican,Jonathan R. Wheeler,2075
+Kent,Warwick,State House,23,Democratic,Robert E. Flaherty,4958
+Kent,Warwick,State House,24,Republican,Joseph A. Trillo,5641
+Kent,Warwick,State House,26,Democratic,William J. Murphy,558
+Kent,Warwick,State House,27,Democratic,Patricia A. Serpa,394
+Kent,Warwick,State House,27,Republican,Ericka Joy Atwell,308
+Kent,Warwick,State House,27,Independent,David Michael,63
+Kent,Warwick,State Question 1,,,Approve,30383
+Kent,Warwick,State Question 1,,,Reject,9220
+Kent,Warwick,State Question 2,,,Approve,26812
+Kent,Warwick,State Question 2,,,Reject,12554
+Kent,West Greenwich,President,,Democratic,Barack Obama,1591
+Kent,West Greenwich,President,,Republican,John McCain,1567
+Kent,West Greenwich,President,,Independent,Ralph Nader,37
+Kent,West Greenwich,President,,Libertarian,Bob Barr,12
+Kent,West Greenwich,President,,Green,Cynthia McKinney,7
+Kent,West Greenwich,President,,Constitution,Chuck Baldwin,6
+Kent,West Greenwich,President,,Socialism and Liberation,Glora La Riva,1
+Kent,West Greenwich,U.S. Senate,,Democratic,John F. Reed,1871
+Kent,West Greenwich,U.S. Senate,,Republican,Robert G. Tingle,1168
+Kent,West Greenwich,U.S. Representative,2,Democratic,James R. Langevin,1760
+Kent,West Greenwich,U.S. Representative,2,Republican,Mark S. Zaccaria,1273
+Kent,West Greenwich,State Senate,34,Republican,"Francis T. Maher, Jr.",2082
+Kent,West Greenwich,State Senate,34,Socialist,Jonathan R. Osborne,402
+Kent,West Greenwich,State House,29,Republican,Ian K. Lonngren,1241
+Kent,West Greenwich,State House,29,Democratic,"Raymond J. Sullivan, Jr.",1209
+Kent,West Greenwich,State House,30,Republican,Robert A. Watson,227
+Kent,West Greenwich,State House,30,Democratic,Jean Ann W. Guliano,216
+Kent,West Greenwich,State Question 1,,,Approve,2072
+Kent,West Greenwich,State Question 1,,,Reject,792
+Kent,West Greenwich,State Question 2,,,Approve,2065
+Kent,West Greenwich,State Question 2,,,Reject,798
+Kent,West Warwick,President,,Democratic,Barack Obama,7475
+Kent,West Warwick,President,,Republican,John McCain,4735
+Kent,West Warwick,President,,Independent,Ralph Nader,143
+Kent,West Warwick,President,,Libertarian,Bob Barr,34
+Kent,West Warwick,President,,Constitution,Chuck Baldwin,28
+Kent,West Warwick,President,,Green,Cynthia McKinney,17
+Kent,West Warwick,President,,Socialism and Liberation,Glora La Riva,3
+Kent,West Warwick,U.S. Senate,,Democratic,John F. Reed,8564
+Kent,West Warwick,U.S. Senate,,Republican,Robert G. Tingle,3119
+Kent,West Warwick,U.S. Representative,2,Democratic,James R. Langevin,8422
+Kent,West Warwick,U.S. Representative,2,Republican,Mark S. Zaccaria,3265
+Kent,West Warwick,State Senate,9,Democratic,Michael J. Pinga,8889
+Kent,West Warwick,State Senate,33,Democratic,Leonidas P. Raptakis,603
+Kent,West Warwick,State House,25,Democratic,Timothy A. Williamson,2687
+Kent,West Warwick,State House,26,Democratic,William J. Murphy,2712
+Kent,West Warwick,State House,27,Democratic,Patricia A. Serpa,2300
+Kent,West Warwick,State House,27,Republican,Ericka Joy Atwell,1676
+Kent,West Warwick,State House,27,Independent,David Michael,325
+Kent,West Warwick,State Question 1,,,Approve,8144
+Kent,West Warwick,State Question 1,,,Reject,3019
+Kent,West Warwick,State Question 2,,,Approve,6590
+Kent,West Warwick,State Question 2,,,Reject,4508
+Washington,Westerly,President,,Democratic,Barack Obama,6490
+Washington,Westerly,President,,Republican,John McCain,4710
+Washington,Westerly,President,,Independent,Ralph Nader,128
+Washington,Westerly,President,,Libertarian,Bob Barr,40
+Washington,Westerly,President,,Constitution,Chuck Baldwin,17
+Washington,Westerly,President,,Green,Cynthia McKinney,14
+Washington,Westerly,President,,Socialism and Liberation,Glora La Riva,0
+Washington,Westerly,U.S. Senate,,Democratic,John F. Reed,7485
+Washington,Westerly,U.S. Senate,,Republican,Robert G. Tingle,3154
+Washington,Westerly,U.S. Representative,2,Democratic,James R. Langevin,7096
+Washington,Westerly,U.S. Representative,2,Republican,Mark S. Zaccaria,3356
+Washington,Westerly,State Senate,38,Republican,Dennis L. Algiere,8860
+Washington,Westerly,State House,36,Democratic,Donna M. Walsh,364
+Washington,Westerly,State House,36,Republican,David A. Cote,262
+Washington,Westerly,State House,36,Independent,Matthew J. McHugh,172
+Washington,Westerly,State House,37,Democratic,Samuel A. Azzinaro,3794
+Washington,Westerly,State House,37,Republican,George W. Markham,3308
+Washington,Westerly,State House,38,Democratic,Brian Patrick Kennedy,1927
+Washington,Westerly,State House,38,Republican,Nancy N. Richmond,737
+Washington,Westerly,State Question 1,,,Approve,6889
+Washington,Westerly,State Question 1,,,Reject,2873
+Washington,Westerly,State Question 2,,,Approve,6434
+Washington,Westerly,State Question 2,,,Reject,3320
+Providence,Woonsocket,President,,Democratic,Barack Obama,8678
+Providence,Woonsocket,President,,Republican,John McCain,4398
+Providence,Woonsocket,President,,Independent,Ralph Nader,131
+Providence,Woonsocket,President,,Libertarian,Bob Barr,36
+Providence,Woonsocket,President,,Constitution,Chuck Baldwin,24
+Providence,Woonsocket,President,,Green,Cynthia McKinney,14
+Providence,Woonsocket,President,,Socialism and Liberation,Glora La Riva,4
+Providence,Woonsocket,U.S. Senate,,Democratic,John F. Reed,9438
+Providence,Woonsocket,U.S. Senate,,Republican,Robert G. Tingle,2724
+Providence,Woonsocket,U.S. Representative,1,Democratic,Patrick J. Kennedy,9179
+Providence,Woonsocket,U.S. Representative,1,Republican,Jonathan P. Scott,2339
+Providence,Woonsocket,U.S. Representative,1,Independent,Kenneth A. Capalbo,809
+Providence,Woonsocket,State Senate,20,Democratic,Roger A. Picard,4710
+Providence,Woonsocket,State Senate,24,Democratic,Marc A. Cote,5627
+Providence,Woonsocket,State House,49,Democratic,Lisa Baldelli-Hunt,2786
+Providence,Woonsocket,State House,50,Democratic,Jon D. Brien,3262
+Providence,Woonsocket,State House,50,Republican,Harvey F. Nabozny,882
+Providence,Woonsocket,State House,51,Democratic,Christopher M. Fierro,3503
+Providence,Woonsocket,State Question 1,,,Approve,8147
+Providence,Woonsocket,State Question 1,,,Reject,2835
+Providence,Woonsocket,State Question 2,,,Approve,7133
+Providence,Woonsocket,State Question 2,,,Reject,3705
