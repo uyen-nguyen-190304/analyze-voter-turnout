@@ -1,45 +1,120 @@
 # Analyze Voter Turnout
 
-This project studies how U.S. presidential primary dynamics relate to general-election outcomes at the precinct level. We combine cleaned per-state precinct data with exploratory notebooks that quantify primary competitiveness (entropy), compare primary vs. general vote shares, and fit simple turnout/voting-chance models.
+This repository analyzes whether patterns consistent with **voter complacency** appear *within* U.S. presidential election cycles. Using county-level election data from 2008, 2016, and 2020, the project studies how **primary-election dynamics** relate to **general-election participation** later in the same year.
 
-## Repository Layout
-- `data/` – Cleaned and intermediate datasets (e.g., `processed/2008`, `processed/2016`, and merged state CSVs).
-- `scripts/` – Jupyter notebooks for each stage:
-  - `0_data_processing/`: per-state cleaning notebooks (2008, 2016).
-  - `1_exploratory_analysis/eda.ipynb`: merges DEM/REP totals, computes shares, and builds primary vs. general plots.
-  - `2_modeling/entropy.ipynb`: computes Shannon entropy by state/party and plots competitiveness over the primary calendar.
-  - `2_modeling/voting_chance.ipynb`: early modeling of turnout/voting probability.
-- `figures/` – Saved plots from notebooks.
+The analysis is **within-cycle and descriptive**: it does not compare elections to each other or attempt causal identification. Instead, it asks whether primary competitiveness and dominance are systematically associated with turnout and vote-share behavior in the general election.
 
-## Data Notes
-- Processed data live under `data/processed/<year>/<STATE>.csv`, with standardized primary/general columns (e.g., `pri_dem_*`, `pri_rep_*`, `gen_dem_*`, `gen_rep_*`, plus totals).
-- Merged convenience files such as `data/processed/2016/merged.csv` are produced in the exploratory stage.
-- Raw inputs are under `data/raw/<year>/<STATE>/` and mirror source files from election archives.
+## Key Results
 
-## Current Findings (snapshot)
-- Primary entropy: GOP primaries tend to show higher entropy (more fragmented fields) than DEM primaries in both 2008 and 2016, especially early in the calendar.
-- Entropy over time: entropy generally declines as the season progresses, reflecting candidate consolidation; late states (e.g., CA, MT, OR) exhibit lower entropy than Super Tuesday states.
-- Primary vs. general: per-state scatterplots show how REP primary share relates to REP general share; complacency/overperformance patterns vary by state.
-- Voting chance modeling: initial fits explore precinct-level turnout probabilities using cleaned totals.
+**Across all three election cycles (2008, 2016, 2020):**
 
-## How to Reproduce Locally
-1) Create and activate a virtual environment (Python 3.10+ recommended):
-```bash
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\\Scripts\\activate
-pip install -U pip
+* **Primary dominance is negatively associated with general-election gains.**
+  States where Republicans performed strongly in the primary tend to show *smaller* increases (or losses) in Republican general-election vote share relative to the primary.
+
+* **Turnout expands asymmetrically from primary to general election.**
+  Using a general-election turnout multiplier:
+
+  * **Primary losers** show increasing turnout expansion as primaries become more lopsided.
+  * **Primary winners** exhibit flat or declining turnout growth as their primary advantage increases.
+
+* **This asymmetry is strongest in 2008 and 2020**, and weaker but still present in 2016.
+
+* **Primary uncertainty declines over time in most cycles**, as measured by Shannon entropy, but patterns vary substantially by party and year, especially in 2016 and 2020.
+
+Taken together, these repeated patterns are **consistent with voter complacency** operating on the advantaged side of the primary, though the results are descriptive and sensitive to data limitations.
+
+## Repository Structure
+
 ```
-2) Install project requirements (if a requirements file is added) or use `pip install -r requirements.txt` when available.
+analyze-voter-turnout/
+├── data/
+│   ├── raw/              # OpenElections source files
+│   └── processed/        # Cleaned, standardized state-level outputs
+├── scripts/
+│   ├── 0_data_processing/
+│   │   ├── 2008/          # Per-state cleaning notebooks
+│   │   └── 2020/          # Automated ETL pipeline
+│   ├── 1_exploratory_analysis/
+│   └── 2_modeling/
+│       ├── multipliers/  # Turnout multiplier models
+│       └── entropy/      # Shannon entropy analysis
+├── figures/
+├── REPORT.md
+└── README.md
+```
 
-3) Run notebooks in order:
-   - Clean data: `scripts/0_data_processing/<STATE>_cleaning.ipynb` (produces `data/processed/...`).
-   - Exploratory analysis: `scripts/1_exploratory_analysis/eda.ipynb` (builds merged datasets and primary vs. general plots).
-   - Modeling: `scripts/2_modeling/entropy.ipynb` and `scripts/2_modeling/voting_chance.ipynb`.
+## Data
 
-4) Figures are saved under `figures/` (or within notebook output directories).
+* **Source:** OpenElections GitHub repositories
+* **Unit of analysis:** County (or county-equivalent geographic units)
+* **Election cycles:** 2008, 2016, 2020
+* **Parties:** Democratic and Republican presidential contests only
 
-## Next Steps
-- Add a lightweight dependency file (`requirements.txt` or `environment.yml`) to pin versions.
-- Fill in missing states/years and rerun cleaning notebooks for broader coverage.
-- Extend modeling: richer turnout models, uncertainty estimates, and validation on held-out states.
-- Write automated scripts (in addition to notebooks) to batch-generate plots and merged datasets.
+
+## Data Processing
+
+### 2008
+
+* One cleaning notebook per state
+* Normalized headers, geography, and party labels
+* Filtered to presidential races
+* Aggregated to county level
+* Output: one CSV per state
+
+### 2016
+
+* Uses pre-cleaned precinct-level data from prior research
+* Aggregated to county level during exploratory analysis
+
+### 2020
+
+* Cleaned via a single automated ETL pipeline
+* Handles inconsistent schemas, geography labels, and malformed files
+* Removes statewide totals and aggregates to county-equivalents
+* Pipeline is **cycle-specific** and includes some state-level fixes
+
+## Exploratory Analysis
+
+* Computes Republican primary and general vote shares by state
+* Defines **vote-share overperformance** as
+  [
+  \text{REP general share} - \text{REP primary share}
+  ]
+* Produces weighted multi-state scatter plots:
+
+  * One point per state
+  * Bubble size proportional to general-election turnout
+  * Linear trend summarizes cross-state patterns
+
+## Modeling: General-Election Multipliers
+
+For each party:
+[
+r = \frac{\text{General-Election Turnout}}{\text{Primary Turnout}}
+]
+
+* Parties are relabeled as **primary winner** or **primary loser** within each state-year
+* Winner and loser multipliers are plotted against primary margin
+* Separate linear trends share a common intercept
+* Reveals consistent winner–loser asymmetry across cycles
+
+
+## Shannon Entropy (Primary Competitiveness)
+
+* Computes Shannon entropy from candidate vote-share distributions
+* Analyzed as a **time series over the primary calendar**
+* Used to contextualize the primary environment rather than directly test turnout behavior
+* Shows expected decline in 2008, mixed patterns in 2016 and 2020
+
+
+## Limitations
+
+* Descriptive analysis only (no causal inference)
+* Turnout multipliers sensitive to uncontested primaries
+* State coverage varies by cycle, especially in 2020
+* ETL pipeline is not yet generalized beyond current years
+
+
+## Full Report
+
+A detailed discussion of methods, figures, and interpretation is available in the full project report in the repo.
