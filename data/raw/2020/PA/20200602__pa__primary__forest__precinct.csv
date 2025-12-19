@@ -1,0 +1,406 @@
+county,precinct,office,district,party,candidate,votes
+Forest,Barnett,President,,DEM,BERNIE SANDERS,0
+Forest,Barnett,President,,DEM,Joseph R. Biden,27
+Forest,Barnett,President,,DEM,TULSI GABBARD,1
+Forest,Barnett,President,,DEM,Donald J. Trump,2
+Forest,Barnett,President,,DEM,SCATTERED,0
+Forest,Green,President,,DEM,BERNIE SANDERS,4
+Forest,Green,President,,DEM,Joseph R. Biden,28
+Forest,Green,President,,DEM,TULSI GABBARD,2
+Forest,Green,President,,DEM,Donald J. Trump,4
+Forest,Green,President,,DEM,SCATTERED,1
+Forest,Harmony,President,,DEM,BERNIE SANDERS,5
+Forest,Harmony,President,,DEM,Joseph R. Biden,40
+Forest,Harmony,President,,DEM,TULSI GABBARD,1
+Forest,Harmony,President,,DEM,Donald J. Trump,5
+Forest,Harmony,President,,DEM,SCATTERED,2
+Forest,Hickory,President,,DEM,BERNIE SANDERS,4
+Forest,Hickory,President,,DEM,Joseph R. Biden,26
+Forest,Hickory,President,,DEM,TULSI GABBARD,1
+Forest,Hickory,President,,DEM,Donald J. Trump,0
+Forest,Hickory,President,,DEM,SCATTERED,1
+Forest,Howe,President,,DEM,BERNIE SANDERS,0
+Forest,Howe,President,,DEM,Joseph R. Biden,8
+Forest,Howe,President,,DEM,TULSI GABBARD,0
+Forest,Howe,President,,DEM,Donald J. Trump,1
+Forest,Howe,President,,DEM,SCATTERED,1
+Forest,Jenks,President,,DEM,BERNIE SANDERS,6
+Forest,Jenks,President,,DEM,Joseph R. Biden,73
+Forest,Jenks,President,,DEM,TULSI GABBARD,5
+Forest,Jenks,President,,DEM,Donald J. Trump,10
+Forest,Jenks,President,,DEM,SCATTERED,3
+Forest,Kingsley,President,,DEM,BERNIE SANDERS,4
+Forest,Kingsley,President,,DEM,Joseph R. Biden,32
+Forest,Kingsley,President,,DEM,TULSI GABBARD,3
+Forest,Kingsley,President,,DEM,Donald J. Trump,1
+Forest,Kingsley,President,,DEM,SCATTERED,0
+Forest,Tionesta,President,,DEM,BERNIE SANDERS,7
+Forest,Tionesta,President,,DEM,Joseph R. Biden,45
+Forest,Tionesta,President,,DEM,TULSI GABBARD,0
+Forest,Tionesta,President,,DEM,Donald J. Trump,6
+Forest,Tionesta,President,,DEM,SCATTERED,0
+Forest,Borough,President,,DEM,BERNIE SANDERS,2
+Forest,Borough,President,,DEM,Joseph R. Biden,34
+Forest,Borough,President,,DEM,TULSI GABBARD,4
+Forest,Borough,President,,DEM,Donald J. Trump,4
+Forest,Borough,President,,DEM,SCATTERED,0
+Forest,Barnett,President,,REP,Donald J. Trump,76
+Forest,Barnett,President,,REP,ROQUE ROCKY DE LA FUENTE,0
+Forest,Barnett,President,,REP,BILL WELD,3
+Forest,Barnett,President,,REP,Joseph R. Biden,0
+Forest,Barnett,President,,REP,SCATTERED,3
+Forest,Green,President,,REP,Donald J. Trump,68
+Forest,Green,President,,REP,ROQUE ROCKY DE LA FUENTE,0
+Forest,Green,President,,REP,BILL WELD,2
+Forest,Green,President,,REP,Joseph R. Biden,1
+Forest,Green,President,,REP,SCATTERED,1
+Forest,Harmony,President,,REP,Donald J. Trump,95
+Forest,Harmony,President,,REP,ROQUE ROCKY DE LA FUENTE,3
+Forest,Harmony,President,,REP,BILL WELD,3
+Forest,Harmony,President,,REP,Joseph R. Biden,0
+Forest,Harmony,President,,REP,SCATTERED,3
+Forest,Hickory,President,,REP,Donald J. Trump,64
+Forest,Hickory,President,,REP,ROQUE ROCKY DE LA FUENTE,1
+Forest,Hickory,President,,REP,BILL WELD,6
+Forest,Hickory,President,,REP,Joseph R. Biden,2
+Forest,Hickory,President,,REP,SCATTERED,0
+Forest,Howe,President,,REP,Donald J. Trump,34
+Forest,Howe,President,,REP,ROQUE ROCKY DE LA FUENTE,2
+Forest,Howe,President,,REP,BILL WELD,1
+Forest,Howe,President,,REP,Joseph R. Biden,0
+Forest,Howe,President,,REP,SCATTERED,0
+Forest,Jenks,President,,REP,Donald J. Trump,200
+Forest,Jenks,President,,REP,ROQUE ROCKY DE LA FUENTE,3
+Forest,Jenks,President,,REP,BILL WELD,10
+Forest,Jenks,President,,REP,Joseph R. Biden,5
+Forest,Jenks,President,,REP,SCATTERED,2
+Forest,Kingsley,President,,REP,Donald J. Trump,41
+Forest,Kingsley,President,,REP,ROQUE ROCKY DE LA FUENTE,1
+Forest,Kingsley,President,,REP,BILL WELD,0
+Forest,Kingsley,President,,REP,Joseph R. Biden,1
+Forest,Kingsley,President,,REP,SCATTERED,1
+Forest,Tionesta,President,,REP,Donald J. Trump,111
+Forest,Tionesta,President,,REP,ROQUE ROCKY DE LA FUENTE,0
+Forest,Tionesta,President,,REP,BILL WELD,3
+Forest,Tionesta,President,,REP,Joseph R. Biden,1
+Forest,Tionesta,President,,REP,SCATTERED,0
+Forest,Borough,President,,REP,Donald J. Trump,80
+Forest,Borough,President,,REP,ROQUE ROCKY DE LA FUENTE,1
+Forest,Borough,President,,REP,BILL WELD,2
+Forest,Borough,President,,REP,Joseph R. Biden,1
+Forest,Borough,President,,REP,SCATTERED,0
+Forest,Barnett,Attorney General,,DEM,JOSH SHAPIRO,26
+Forest,Barnett,Attorney General,,DEM,HEATHER HEIDELBAUGH,0
+Forest,Barnett,Attorney General,,DEM,SCATTERED,4
+Forest,Green,Attorney General,,DEM,JOSH SHAPIRO,32
+Forest,Green,Attorney General,,DEM,HEATHER HEIDELBAUGH,0
+Forest,Green,Attorney General,,DEM,SCATTERED,2
+Forest,Harmony,Attorney General,,DEM,JOSH SHAPIRO,49
+Forest,Harmony,Attorney General,,DEM,HEATHER HEIDELBAUGH,1
+Forest,Harmony,Attorney General,,DEM,SCATTERED,1
+Forest,Hickory,Attorney General,,DEM,JOSH SHAPIRO,31
+Forest,Hickory,Attorney General,,DEM,HEATHER HEIDELBAUGH,1
+Forest,Hickory,Attorney General,,DEM,SCATTERED,0
+Forest,Howe,Attorney General,,DEM,JOSH SHAPIRO,6
+Forest,Howe,Attorney General,,DEM,HEATHER HEIDELBAUGH,0
+Forest,Howe,Attorney General,,DEM,SCATTERED,0
+Forest,Jenks,Attorney General,,DEM,JOSH SHAPIRO,89
+Forest,Jenks,Attorney General,,DEM,HEATHER HEIDELBAUGH,3
+Forest,Jenks,Attorney General,,DEM,SCATTERED,1
+Forest,Kingsley,Attorney General,,DEM,JOSH SHAPIRO,35
+Forest,Kingsley,Attorney General,,DEM,HEATHER HEIDELBAUGH,0
+Forest,Kingsley,Attorney General,,DEM,SCATTERED,1
+Forest,Tionesta,Attorney General,,DEM,JOSH SHAPIRO,50
+Forest,Tionesta,Attorney General,,DEM,HEATHER HEIDELBAUGH,1
+Forest,Tionesta,Attorney General,,DEM,SCATTERED,0
+Forest,Borough,Attorney General,,DEM,JOSH SHAPIRO,39
+Forest,Borough,Attorney General,,DEM,HEATHER HEIDELBAUGH,0
+Forest,Borough,Attorney General,,DEM,SCATTERED,0
+Forest,Barnett,Attorney General,,REP,HEATHER HEIDELBAUGH,77
+Forest,Barnett,Attorney General,,REP,JOSH SHAPIRO,0
+Forest,Green,Attorney General,,REP,HEATHER HEIDELBAUGH,70
+Forest,Green,Attorney General,,REP,JOSH SHAPIRO,0
+Forest,Harmony,Attorney General,,REP,HEATHER HEIDELBAUGH,100
+Forest,Harmony,Attorney General,,REP,JOSH SHAPIRO,0
+Forest,Hickory,Attorney General,,REP,HEATHER HEIDELBAUGH,64
+Forest,Hickory,Attorney General,,REP,JOSH SHAPIRO,2
+Forest,Howe,Attorney General,,REP,HEATHER HEIDELBAUGH,36
+Forest,Howe,Attorney General,,REP,JOSH SHAPIRO,0
+Forest,Jenks,Attorney General,,REP,HEATHER HEIDELBAUGH,199
+Forest,Jenks,Attorney General,,REP,JOSH SHAPIRO,4
+Forest,Kingsley,Attorney General,,REP,HEATHER HEIDELBAUGH,36
+Forest,Kingsley,Attorney General,,REP,JOSH SHAPIRO,0
+Forest,Tionesta,Attorney General,,REP,HEATHER HEIDELBAUGH,102
+Forest,Tionesta,Attorney General,,REP,JOSH SHAPIRO,0
+Forest,Borough,Attorney General,,REP,HEATHER HEIDELBAUGH,70
+Forest,Borough,Attorney General,,REP,JOSH SHAPIRO,0
+Forest,Barnett,Auditor General,,DEM,H. SCOTT CONKLIN,5
+Forest,Barnett,Auditor General,,DEM,MICHAEL LAMB,17
+Forest,Barnett,Auditor General,,DEM,TRACIE FOUNTAIN,0
+Forest,Barnett,Auditor General,,DEM,ROSE ROSIE MARIE DAVIS,0
+Forest,Barnett,Auditor General,,DEM,NINA AHMAD,3
+Forest,Barnett,Auditor General,,DEM,CHRISTINA M. HARTMAN,4
+Forest,Barnett,Auditor General,,DEM,TIM DEFOOR,0
+Forest,Barnett,Auditor General,,DEM,SCATTERED,1
+Forest,Green,Auditor General,,DEM,H. SCOTT CONKLIN,7
+Forest,Green,Auditor General,,DEM,MICHAEL LAMB,19
+Forest,Green,Auditor General,,DEM,TRACIE FOUNTAIN,2
+Forest,Green,Auditor General,,DEM,ROSE ROSIE MARIE DAVIS,2
+Forest,Green,Auditor General,,DEM,NINA AHMAD,3
+Forest,Green,Auditor General,,DEM,CHRISTINA M. HARTMAN,2
+Forest,Green,Auditor General,,DEM,TIM DEFOOR,1
+Forest,Green,Auditor General,,DEM,SCATTERED,0
+Forest,Harmony,Auditor General,,DEM,H. SCOTT CONKLIN,2
+Forest,Harmony,Auditor General,,DEM,MICHAEL LAMB,27
+Forest,Harmony,Auditor General,,DEM,TRACIE FOUNTAIN,6
+Forest,Harmony,Auditor General,,DEM,ROSE ROSIE MARIE DAVIS,0
+Forest,Harmony,Auditor General,,DEM,NINA AHMAD,8
+Forest,Harmony,Auditor General,,DEM,CHRISTINA M. HARTMAN,7
+Forest,Harmony,Auditor General,,DEM,TIM DEFOOR,1
+Forest,Harmony,Auditor General,,DEM,SCATTERED,1
+Forest,Hickory,Auditor General,,DEM,H. SCOTT CONKLIN,4
+Forest,Hickory,Auditor General,,DEM,MICHAEL LAMB,23
+Forest,Hickory,Auditor General,,DEM,TRACIE FOUNTAIN,0
+Forest,Hickory,Auditor General,,DEM,ROSE ROSIE MARIE DAVIS,3
+Forest,Hickory,Auditor General,,DEM,NINA AHMAD,1
+Forest,Hickory,Auditor General,,DEM,CHRISTINA M. HARTMAN,1
+Forest,Hickory,Auditor General,,DEM,TIM DEFOOR,0
+Forest,Hickory,Auditor General,,DEM,SCATTERED,0
+Forest,Howe,Auditor General,,DEM,H. SCOTT CONKLIN,3
+Forest,Howe,Auditor General,,DEM,MICHAEL LAMB,2
+Forest,Howe,Auditor General,,DEM,TRACIE FOUNTAIN,0
+Forest,Howe,Auditor General,,DEM,ROSE ROSIE MARIE DAVIS,0
+Forest,Howe,Auditor General,,DEM,NINA AHMAD,0
+Forest,Howe,Auditor General,,DEM,CHRISTINA M. HARTMAN,1
+Forest,Howe,Auditor General,,DEM,TIM DEFOOR,0
+Forest,Howe,Auditor General,,DEM,SCATTERED,0
+Forest,Jenks,Auditor General,,DEM,H. SCOTT CONKLIN,12
+Forest,Jenks,Auditor General,,DEM,MICHAEL LAMB,53
+Forest,Jenks,Auditor General,,DEM,TRACIE FOUNTAIN,8
+Forest,Jenks,Auditor General,,DEM,ROSE ROSIE MARIE DAVIS,4
+Forest,Jenks,Auditor General,,DEM,NINA AHMAD,5
+Forest,Jenks,Auditor General,,DEM,CHRISTINA M. HARTMAN,7
+Forest,Jenks,Auditor General,,DEM,TIM DEFOOR,2
+Forest,Jenks,Auditor General,,DEM,SCATTERED,1
+Forest,Kingsley,Auditor General,,DEM,H. SCOTT CONKLIN,2
+Forest,Kingsley,Auditor General,,DEM,MICHAEL LAMB,20
+Forest,Kingsley,Auditor General,,DEM,TRACIE FOUNTAIN,0
+Forest,Kingsley,Auditor General,,DEM,ROSE ROSIE MARIE DAVIS,2
+Forest,Kingsley,Auditor General,,DEM,NINA AHMAD,5
+Forest,Kingsley,Auditor General,,DEM,CHRISTINA M. HARTMAN,5
+Forest,Kingsley,Auditor General,,DEM,TIM DEFOOR,0
+Forest,Kingsley,Auditor General,,DEM,SCATTERED,0
+Forest,Tionesta,Auditor General,,DEM,H. SCOTT CONKLIN,6
+Forest,Tionesta,Auditor General,,DEM,MICHAEL LAMB,36
+Forest,Tionesta,Auditor General,,DEM,TRACIE FOUNTAIN,2
+Forest,Tionesta,Auditor General,,DEM,ROSE ROSIE MARIE DAVIS,0
+Forest,Tionesta,Auditor General,,DEM,NINA AHMAD,4
+Forest,Tionesta,Auditor General,,DEM,CHRISTINA M. HARTMAN,4
+Forest,Tionesta,Auditor General,,DEM,TIM DEFOOR,1
+Forest,Tionesta,Auditor General,,DEM,SCATTERED,0
+Forest,Borough,Auditor General,,DEM,H. SCOTT CONKLIN,5
+Forest,Borough,Auditor General,,DEM,MICHAEL LAMB,26
+Forest,Borough,Auditor General,,DEM,TRACIE FOUNTAIN,1
+Forest,Borough,Auditor General,,DEM,ROSE ROSIE MARIE DAVIS,1
+Forest,Borough,Auditor General,,DEM,NINA AHMAD,6
+Forest,Borough,Auditor General,,DEM,CHRISTINA M. HARTMAN,4
+Forest,Borough,Auditor General,,DEM,TIM DEFOOR,0
+Forest,Borough,Auditor General,,DEM,SCATTERED,0
+Forest,Barnett,Auditor General,,REP,TIMOTHY DEFOOR,78
+Forest,Barnett,Auditor General,,REP,NINA AHMAD,0
+Forest,Barnett,Auditor General,,REP,SCATTERED,0
+Forest,Green,Auditor General,,REP,TIMOTHY DEFOOR,70
+Forest,Green,Auditor General,,REP,NINA AHMAD,0
+Forest,Green,Auditor General,,REP,SCATTERED,0
+Forest,Harmony,Auditor General,,REP,TIMOTHY DEFOOR,97
+Forest,Harmony,Auditor General,,REP,NINA AHMAD,0
+Forest,Harmony,Auditor General,,REP,SCATTERED,0
+Forest,Hickory,Auditor General,,REP,TIMOTHY DEFOOR,69
+Forest,Hickory,Auditor General,,REP,NINA AHMAD,1
+Forest,Hickory,Auditor General,,REP,SCATTERED,0
+Forest,Howe,Auditor General,,REP,TIMOTHY DEFOOR,35
+Forest,Howe,Auditor General,,REP,NINA AHMAD,0
+Forest,Howe,Auditor General,,REP,SCATTERED,0
+Forest,Jenks,Auditor General,,REP,TIMOTHY DEFOOR,202
+Forest,Jenks,Auditor General,,REP,NINA AHMAD,0
+Forest,Jenks,Auditor General,,REP,SCATTERED,2
+Forest,Kingsley,Auditor General,,REP,TIMOTHY DEFOOR,36
+Forest,Kingsley,Auditor General,,REP,NINA AHMAD,0
+Forest,Kingsley,Auditor General,,REP,SCATTERED,0
+Forest,Tionesta,Auditor General,,REP,TIMOTHY DEFOOR,101
+Forest,Tionesta,Auditor General,,REP,NINA AHMAD,0
+Forest,Tionesta,Auditor General,,REP,SCATTERED,0
+Forest,Borough,Auditor General,,REP,TIMOTHY DEFOOR,69
+Forest,Borough,Auditor General,,REP,NINA AHMAD,0
+Forest,Borough,Auditor General,,REP,SCATTERED,0
+Forest,Barnett,State Treasurer,,DEM,JOE TORSELLA,25
+Forest,Barnett,State Treasurer,,DEM,STACY GARRITY,0
+Forest,Barnett,State Treasurer,,DEM,SCATTERED,2
+Forest,Green,State Treasurer,,DEM,JOE TORSELLA,32
+Forest,Green,State Treasurer,,DEM,STACY GARRITY,1
+Forest,Green,State Treasurer,,DEM,SCATTERED,1
+Forest,Harmony,State Treasurer,,DEM,JOE TORSELLA,48
+Forest,Harmony,State Treasurer,,DEM,STACY GARRITY,1
+Forest,Harmony,State Treasurer,,DEM,SCATTERED,1
+Forest,Hickory,State Treasurer,,DEM,JOE TORSELLA,33
+Forest,Hickory,State Treasurer,,DEM,STACY GARRITY,0
+Forest,Hickory,State Treasurer,,DEM,SCATTERED,0
+Forest,Howe,State Treasurer,,DEM,JOE TORSELLA,6
+Forest,Howe,State Treasurer,,DEM,STACY GARRITY,0
+Forest,Howe,State Treasurer,,DEM,SCATTERED,0
+Forest,Jenks,State Treasurer,,DEM,JOE TORSELLA,84
+Forest,Jenks,State Treasurer,,DEM,STACY GARRITY,2
+Forest,Jenks,State Treasurer,,DEM,SCATTERED,0
+Forest,Kingsley,State Treasurer,,DEM,JOE TORSELLA,33
+Forest,Kingsley,State Treasurer,,DEM,STACY GARRITY,0
+Forest,Kingsley,State Treasurer,,DEM,SCATTERED,0
+Forest,Tionesta,State Treasurer,,DEM,JOE TORSELLA,49
+Forest,Tionesta,State Treasurer,,DEM,STACY GARRITY,1
+Forest,Tionesta,State Treasurer,,DEM,SCATTERED,0
+Forest,Borough,State Treasurer,,DEM,JOE TORSELLA,38
+Forest,Borough,State Treasurer,,DEM,STACY GARRITY,0
+Forest,Borough,State Treasurer,,DEM,SCATTERED,0
+Forest,Barnett,State Treasurer,,REP,STACY GARRITY,78
+Forest,Barnett,State Treasurer,,REP,JOE TORSELLA,0
+Forest,Barnett,State Treasurer,,REP,SCATTERED,0
+Forest,Green,State Treasurer,,REP,STACY GARRITY,67
+Forest,Green,State Treasurer,,REP,JOE TORSELLA,0
+Forest,Green,State Treasurer,,REP,SCATTERED,0
+Forest,Harmony,State Treasurer,,REP,STACY GARRITY,101
+Forest,Harmony,State Treasurer,,REP,JOE TORSELLA,0
+Forest,Harmony,State Treasurer,,REP,SCATTERED,0
+Forest,Hickory,State Treasurer,,REP,STACY GARRITY,71
+Forest,Hickory,State Treasurer,,REP,JOE TORSELLA,0
+Forest,Hickory,State Treasurer,,REP,SCATTERED,0
+Forest,Howe,State Treasurer,,REP,STACY GARRITY,36
+Forest,Howe,State Treasurer,,REP,JOE TORSELLA,0
+Forest,Howe,State Treasurer,,REP,SCATTERED,0
+Forest,Jenks,State Treasurer,,REP,STACY GARRITY,199
+Forest,Jenks,State Treasurer,,REP,JOE TORSELLA,2
+Forest,Jenks,State Treasurer,,REP,SCATTERED,2
+Forest,Kingsley,State Treasurer,,REP,STACY GARRITY,38
+Forest,Kingsley,State Treasurer,,REP,JOE TORSELLA,0
+Forest,Kingsley,State Treasurer,,REP,SCATTERED,0
+Forest,Tionesta,State Treasurer,,REP,STACY GARRITY,105
+Forest,Tionesta,State Treasurer,,REP,JOE TORSELLA,0
+Forest,Tionesta,State Treasurer,,REP,SCATTERED,0
+Forest,Borough,State Treasurer,,REP,STACY GARRITY,70
+Forest,Borough,State Treasurer,,REP,JOE TORSELLA,0
+Forest,Borough,State Treasurer,,REP,SCATTERED,0
+Forest,Barnett,U.S. House,15,DEM,ROBERT WILLIAMS,26
+Forest,Barnett,U.S. House,15,DEM,SCATTERED,1
+Forest,Green,U.S. House,15,DEM,ROBERT WILLIAMS,33
+Forest,Green,U.S. House,15,DEM,SCATTERED,0
+Forest,Harmony,U.S. House,15,DEM,ROBERT WILLIAMS,48
+Forest,Harmony,U.S. House,15,DEM,SCATTERED,0
+Forest,Hickory,U.S. House,15,DEM,ROBERT WILLIAMS,28
+Forest,Hickory,U.S. House,15,DEM,SCATTERED,0
+Forest,Howe,U.S. House,15,DEM,ROBERT WILLIAMS,5
+Forest,Howe,U.S. House,15,DEM,SCATTERED,0
+Forest,Jenks,U.S. House,15,DEM,ROBERT WILLIAMS,86
+Forest,Jenks,U.S. House,15,DEM,SCATTERED,0
+Forest,Kingsley,U.S. House,15,DEM,ROBERT WILLIAMS,31
+Forest,Kingsley,U.S. House,15,DEM,SCATTERED,1
+Forest,Tionesta,U.S. House,15,DEM,ROBERT WILLIAMS,50
+Forest,Tionesta,U.S. House,15,DEM,SCATTERED,0
+Forest,Borough,U.S. House,15,DEM,ROBERT WILLIAMS,39
+Forest,Borough,U.S. House,15,DEM,SCATTERED,0
+Forest,Barnett,U.S. House,15,REP,GLENN GT THOMPSON,79
+Forest,Barnett,U.S. House,15,REP,SCATTERED,1
+Forest,Green,U.S. House,15,REP,GLENN GT THOMPSON,73
+Forest,Green,U.S. House,15,REP,SCATTERED,0
+Forest,Harmony,U.S. House,15,REP,GLENN GT THOMPSON,101
+Forest,Harmony,U.S. House,15,REP,SCATTERED,0
+Forest,Hickory,U.S. House,15,REP,GLENN GT THOMPSON,70
+Forest,Hickory,U.S. House,15,REP,SCATTERED,0
+Forest,Howe,U.S. House,15,REP,GLENN GT THOMPSON,37
+Forest,Howe,U.S. House,15,REP,SCATTERED,0
+Forest,Jenks,U.S. House,15,REP,GLENN GT THOMPSON,211
+Forest,Jenks,U.S. House,15,REP,SCATTERED,2
+Forest,Kingsley,U.S. House,15,REP,GLENN GT THOMPSON,38
+Forest,Kingsley,U.S. House,15,REP,SCATTERED,0
+Forest,Tionesta,U.S. House,15,REP,GLENN GT THOMPSON,113
+Forest,Tionesta,U.S. House,15,REP,SCATTERED,0
+Forest,Borough,U.S. House,15,REP,GLENN GT THOMPSON,88
+Forest,Borough,U.S. House,15,REP,SCATTERED,0
+Forest,Barnett,State Senate,21,DEM,SHELBIE L. STROMYER,26
+Forest,Barnett,State Senate,21,DEM,SCOTT HUTCHINSON,0
+Forest,Barnett,State Senate,21,DEM,SCATTERED,1
+Forest,Green,State Senate,21,DEM,SHELBIE L. STROMYER,33
+Forest,Green,State Senate,21,DEM,SCOTT HUTCHINSON,1
+Forest,Green,State Senate,21,DEM,SCATTERED,0
+Forest,Harmony,State Senate,21,DEM,SHELBIE L. STROMYER,49
+Forest,Harmony,State Senate,21,DEM,SCOTT HUTCHINSON,1
+Forest,Harmony,State Senate,21,DEM,SCATTERED,0
+Forest,Hickory,State Senate,21,DEM,SHELBIE L. STROMYER,25
+Forest,Hickory,State Senate,21,DEM,SCOTT HUTCHINSON,0
+Forest,Hickory,State Senate,21,DEM,SCATTERED,1
+Forest,Howe,State Senate,21,DEM,SHELBIE L. STROMYER,5
+Forest,Howe,State Senate,21,DEM,SCOTT HUTCHINSON,0
+Forest,Howe,State Senate,21,DEM,SCATTERED,0
+Forest,Jenks,State Senate,21,DEM,SHELBIE L. STROMYER,91
+Forest,Jenks,State Senate,21,DEM,SCOTT HUTCHINSON,2
+Forest,Jenks,State Senate,21,DEM,SCATTERED,0
+Forest,Kingsley,State Senate,21,DEM,SHELBIE L. STROMYER,33
+Forest,Kingsley,State Senate,21,DEM,SCOTT HUTCHINSON,0
+Forest,Kingsley,State Senate,21,DEM,SCATTERED,0
+Forest,Tionesta,State Senate,21,DEM,SHELBIE L. STROMYER,50
+Forest,Tionesta,State Senate,21,DEM,SCOTT HUTCHINSON,1
+Forest,Tionesta,State Senate,21,DEM,SCATTERED,0
+Forest,Borough,State Senate,21,DEM,SHELBIE L. STROMYER,40
+Forest,Borough,State Senate,21,DEM,SCOTT HUTCHINSON,1
+Forest,Borough,State Senate,21,DEM,SCATTERED,0
+Forest,Barnett,State Senate,21,REP,SCOTT E. HUTCHINSON,80
+Forest,Barnett,State Senate,21,REP,SCATTERED,0
+Forest,Green,State Senate,21,REP,SCOTT E. HUTCHINSON,74
+Forest,Green,State Senate,21,REP,SCATTERED,0
+Forest,Harmony,State Senate,21,REP,SCOTT E. HUTCHINSON,105
+Forest,Harmony,State Senate,21,REP,SCATTERED,0
+Forest,Hickory,State Senate,21,REP,SCOTT E. HUTCHINSON,73
+Forest,Hickory,State Senate,21,REP,SCATTERED,0
+Forest,Howe,State Senate,21,REP,SCOTT E. HUTCHINSON,37
+Forest,Howe,State Senate,21,REP,SCATTERED,0
+Forest,Jenks,State Senate,21,REP,SCOTT E. HUTCHINSON,209
+Forest,Jenks,State Senate,21,REP,SCATTERED,2
+Forest,Kingsley,State Senate,21,REP,SCOTT E. HUTCHINSON,39
+Forest,Kingsley,State Senate,21,REP,SCATTERED,0
+Forest,Tionesta,State Senate,21,REP,SCOTT E. HUTCHINSON,110
+Forest,Tionesta,State Senate,21,REP,SCATTERED,1
+Forest,Borough,State Senate,21,REP,SCOTT E. HUTCHINSON,88
+Forest,Borough,State Senate,21,REP,SCATTERED,0
+Forest,Barnett,General Assembly,63,DEM,DONNA OBERLANDER,0
+Forest,Barnett,General Assembly,63,DEM,SCATTERED,6
+Forest,Jenks,General Assembly,63,DEM,DONNA OBERLANDER,6
+Forest,Jenks,General Assembly,63,DEM,SCATTERED,10
+Forest,Barnett,General Assembly,63,REP,DONNA OBERLANDER,82
+Forest,Barnett,General Assembly,63,REP,SCATTERED,0
+Forest,Jenks,General Assembly,63,REP,DONNA OBERLANDER,212
+Forest,Jenks,General Assembly,63,REP,SCATTERED,1
+Forest,Green,General Assembly,65,DEM,KATHY RAPP,4
+Forest,Green,General Assembly,65,DEM,SCATTERED,5
+Forest,Harmony,General Assembly,65,DEM,KATHY RAPP,2
+Forest,Harmony,General Assembly,65,DEM,SCATTERED,6
+Forest,Hickory,General Assembly,65,DEM,KATHY RAPP,2
+Forest,Hickory,General Assembly,65,DEM,SCATTERED,2
+Forest,Howe,General Assembly,65,DEM,KATHY RAPP,0
+Forest,Howe,General Assembly,65,DEM,SCATTERED,0
+Forest,Kingsley,General Assembly,65,DEM,KATHY RAPP,3
+Forest,Kingsley,General Assembly,65,DEM,SCATTERED,1
+Forest,Tionesta,General Assembly,65,DEM,KATHY RAPP,2
+Forest,Tionesta,General Assembly,65,DEM,SCATTERED,2
+Forest,Borough,General Assembly,65,DEM,KATHY RAPP,1
+Forest,Borough,General Assembly,65,DEM,SCATTERED,5
+Forest,Green,General Assembly,65,REP,KATHY L. RAPP,71
+Forest,Green,General Assembly,65,REP,SCATTERED,0
+Forest,Harmony,General Assembly,65,REP,KATHY L. RAPP,104
+Forest,Harmony,General Assembly,65,REP,SCATTERED,0
+Forest,Hickory,General Assembly,65,REP,KATHY L. RAPP,70
+Forest,Hickory,General Assembly,65,REP,SCATTERED,0
+Forest,Howe,General Assembly,65,REP,KATHY L. RAPP,35
+Forest,Howe,General Assembly,65,REP,SCATTERED,0
+Forest,Kingsley,General Assembly,65,REP,KATHY L. RAPP,42
+Forest,Kingsley,General Assembly,65,REP,SCATTERED,0
+Forest,Tionesta,General Assembly,65,REP,KATHY L. RAPP,110
+Forest,Tionesta,General Assembly,65,REP,SCATTERED,0
+Forest,Borough,General Assembly,65,REP,KATHY L. RAPP,81
+Forest,Borough,General Assembly,65,REP,SCATTERED,0
